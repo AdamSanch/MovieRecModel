@@ -108,7 +108,7 @@ def create_user_item_matrix(df_GT100):
 def calculate_item_similarity(matrix_norm):
     item_similarity = matrix_norm.T.corr()
     return item_similarity
-
+#
 # Function to predict a rating for a given user and movie
 def predict_rating(matrix_norm, item_similarity, picked_userid, picked_movie):
     # Check if picked_movie is in item_similarity
@@ -135,10 +135,9 @@ def predict_rating(matrix_norm, item_similarity, picked_userid, picked_movie):
                                     weights=picked_userid_watched_similarity['similarity_score']), 6)
     return predicted_rating
 
-# Function to perform item-based recommendation
 def item_based_rec(matrix_norm, item_similarity, picked_userid, number_of_similar_items, number_of_recommendations):
     picked_userid_unwatched = pd.DataFrame(matrix_norm[picked_userid].isna()).reset_index()
-    picked_userid_unwatched = picked_userid_unwatched[picked_userid_unwatched[1] == True]['title'].values.tolist()
+    picked_userid_unwatched = picked_userid_unwatched[picked_userid_unwatched['1'] == True]['title'].values.tolist()
     picked_userid_watched = pd.DataFrame(matrix_norm[picked_userid].dropna(axis=0, how='all')
                                          .sort_values(ascending=False)).reset_index().rename(columns={1: 'rating'})
     
@@ -154,7 +153,19 @@ def item_based_rec(matrix_norm, item_similarity, picked_userid, number_of_simila
         predicted_rating = round(np.average(picked_userid_watched_similarity['rating'],
                                             weights=picked_userid_watched_similarity['similarity_score']), 6)
         rating_prediction[picked_movie] = predicted_rating
-    return sorted(rating_prediction.items(), key=lambda x: x[1], reverse=True)[:number_of_recommendations]
+
+    # Sort the predictions
+    sorted_predictions = sorted(rating_prediction.items(), key=lambda x: x[1], reverse=True)
+    
+    # Get top 3 and bottom 3 predictions
+    top_3_predictions = sorted_predictions[:3]
+    bottom_3_predictions = sorted_predictions[-3:]
+    
+    # Get user's favorite and least favorite movies
+    favorite_movie = picked_userid_watched.sort_values('rating', ascending=False).iloc[0]
+    least_favorite_movie = picked_userid_watched.sort_values('rating', ascending=True).iloc[0]
+    
+    return top_3_predictions, bottom_3_predictions, favorite_movie, least_favorite_movie
 
 # Main function
 def main():
@@ -218,6 +229,8 @@ def main():
     with open('predict_rating_out.txt', 'w') as f:
         pass
 
+    
+
     # Predict rating for a all users and movie in the test set
     # Loop through all users in the test set
     for picked_userid in test['user_id'].unique():
@@ -234,10 +247,21 @@ def main():
             f.write(f'The actual rating for {picked_movie} by user {picked_userid} is {actual_rating}\n')
             f.write("------------------------------------------------------------------\n")
 
-    # # Perform item-based recommendation for a specific user
-    # recommended_movies = item_based_rec(matrix_norm, item_similarity, picked_userid=1, number_of_similar_items=5, number_of_recommendations=3)
-    # print(f'The top 3 recommended movies for user 1 are {recommended_movies}\n')
-    # print("Done\n")
+    with open('predict_rating_unwatched_out.txt', 'w') as f:
+        pass
+
+    # Use item_based_rec to recommend movies for all users in the test set
+    # Loop through all users in the test set
+    for picked_userid in test['user_id'].unique():
+        # Get the top 3 and bottom 3 predictions, favorite and least favorite movie for the user
+        top_3_predictions, bottom_3_predictions, favorite_movie, least_favorite_movie = item_based_rec(matrix_norm, item_similarity, picked_userid, 5, 3)
+        # Append to the file
+        with open('predict_rating_unwatched_out.txt', 'a') as f:
+            f.write(f'The top 3 predictions for user {picked_userid} are {top_3_predictions}\n')
+            f.write(f'The bottom 3 predictions for user {picked_userid} are {bottom_3_predictions}\n')
+            f.write(f'The favorite movie for user {picked_userid} is {favorite_movie}\n')
+            f.write(f'The least favorite movie for user {picked_userid} is {least_favorite_movie}\n')
+            f.write("------------------------------------------------------------------\n")
 
 
 if __name__ == "__main__":

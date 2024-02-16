@@ -1,0 +1,1797 @@
+The predicted rating for Big Lebowski, The (1998) by user 1 is 4.522724
+The actual rating for Big Lebowski, The (1998) by user 1 is 5.0
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 2 is 4.151608
+The actual rating for Inception (2010) by user 2 is 4.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 3 is 0.5
+The actual rating for Schindler's List (1993) by user 3 is 0.5
+------------------------------------------------------------------
+The predicted rating for Indiana Jones and the Last Crusade (1989) by user 4 is 3.663761
+The actual rating for Indiana Jones and the Last Crusade (1989) by user 4 is 4.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 5 is 3.283452
+The actual rating for Apollo 13 (1995) by user 5 is 3.0
+------------------------------------------------------------------
+The predicted rating for Babe (1995) by user 6 is 4.254745
+The actual rating for Babe (1995) by user 6 is 4.0
+------------------------------------------------------------------
+The predicted rating for Ocean's Eleven (2001) by user 7 is 3.667787
+The actual rating for Ocean's Eleven (2001) by user 7 is 4.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 8 is 4.612613
+The actual rating for Shawshank Redemption, The (1994) by user 8 is 5.0
+------------------------------------------------------------------
+The predicted rating for Back to the Future (1985) by user 9 is 4.798366
+The actual rating for Back to the Future (1985) by user 9 is 5.0
+------------------------------------------------------------------
+The predicted rating for American Beauty (1999) by user 10 is 1.068366
+The actual rating for American Beauty (1999) by user 10 is 1.0
+------------------------------------------------------------------
+The predicted rating for Batman Forever (1995) by user 11 is 3.632583
+The actual rating for Batman Forever (1995) by user 11 is 3.0
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 12 is 4.460316
+The actual rating for Titanic (1997) by user 12 is 5.0
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 13 is 4.012097
+The actual rating for Titanic (1997) by user 13 is 4.0
+------------------------------------------------------------------
+The predicted rating for Speed (1994) by user 14 is 3.020274
+The actual rating for Speed (1994) by user 14 is 3.0
+------------------------------------------------------------------
+The predicted rating for Beautiful Mind, A (2001) by user 15 is 4.406477
+The actual rating for Beautiful Mind, A (2001) by user 15 is 5.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode IV - A New Hope (1977) by user 16 is 3.072474
+The actual rating for Star Wars: Episode IV - A New Hope (1977) by user 16 is 3.0
+------------------------------------------------------------------
+The predicted rating for Green Mile, The (1999) by user 17 is 4.561656
+The actual rating for Green Mile, The (1999) by user 17 is 4.5
+------------------------------------------------------------------
+The predicted rating for Eternal Sunshine of the Spotless Mind (2004) by user 18 is 3.920912
+The actual rating for Eternal Sunshine of the Spotless Mind (2004) by user 18 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 19 is 4.093649
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 19 is 4.0
+------------------------------------------------------------------
+The predicted rating for Catch Me If You Can (2002) by user 20 is 4.457085
+The actual rating for Catch Me If You Can (2002) by user 20 is 4.5
+------------------------------------------------------------------
+The predicted rating for Blade Runner (1982) by user 21 is 3.581293
+The actual rating for Blade Runner (1982) by user 21 is 3.5
+------------------------------------------------------------------
+The predicted rating for Harry Potter and the Chamber of Secrets (2002) by user 22 is 2.191051
+The actual rating for Harry Potter and the Chamber of Secrets (2002) by user 22 is 0.5
+------------------------------------------------------------------
+The predicted rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 23 is 3.340452
+The actual rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 23 is 3.5
+------------------------------------------------------------------
+The predicted rating for Beautiful Mind, A (2001) by user 24 is 3.841415
+The actual rating for Beautiful Mind, A (2001) by user 24 is 3.5
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 25 is 5.0
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 25 is 5.0
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 26 is 3.60116
+The actual rating for Silence of the Lambs, The (1991) by user 26 is 4.0
+------------------------------------------------------------------
+The predicted rating for Men in Black (a.k.a. MIB) (1997) by user 27 is 3.615584
+The actual rating for Men in Black (a.k.a. MIB) (1997) by user 27 is 3.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 28 is 2.476173
+The actual rating for Jurassic Park (1993) by user 28 is 2.5
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 29 is 4.424901
+The actual rating for Forrest Gump (1994) by user 29 is 4.5
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 30 is 4.866371
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 30 is 5.0
+------------------------------------------------------------------
+The predicted rating for Ace Ventura: Pet Detective (1994) by user 31 is 3.652956
+The actual rating for Ace Ventura: Pet Detective (1994) by user 31 is 3.0
+------------------------------------------------------------------
+The predicted rating for Willy Wonka & the Chocolate Factory (1971) by user 32 is 4.478434
+The actual rating for Willy Wonka & the Chocolate Factory (1971) by user 32 is 5.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 33 is 4.038393
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 33 is 3.0
+------------------------------------------------------------------
+The predicted rating for Truman Show, The (1998) by user 34 is 2.800238
+The actual rating for Truman Show, The (1998) by user 34 is 2.5
+------------------------------------------------------------------
+The predicted rating for Net, The (1995) by user 35 is 4.56765
+The actual rating for Net, The (1995) by user 35 is 5.0
+------------------------------------------------------------------
+The predicted rating for Beautiful Mind, A (2001) by user 36 is 2.13126
+The actual rating for Beautiful Mind, A (2001) by user 36 is 1.0
+------------------------------------------------------------------
+The predicted rating for Dances with Wolves (1990) by user 37 is 3.847117
+The actual rating for Dances with Wolves (1990) by user 37 is 4.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 38 is 2.560433
+The actual rating for Twister (1996) by user 38 is 2.0
+------------------------------------------------------------------
+The predicted rating for 2001: A Space Odyssey (1968) by user 39 is 3.752906
+The actual rating for 2001: A Space Odyssey (1968) by user 39 is 2.0
+------------------------------------------------------------------
+The predicted rating for True Lies (1994) by user 40 is 3.622746
+The actual rating for True Lies (1994) by user 40 is 3.0
+------------------------------------------------------------------
+The predicted rating for Memento (2000) by user 41 is 3.606674
+The actual rating for Memento (2000) by user 41 is 4.0
+------------------------------------------------------------------
+The predicted rating for Full Metal Jacket (1987) by user 42 is 4.473543
+The actual rating for Full Metal Jacket (1987) by user 42 is 5.0
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 43 is 4.107336
+The actual rating for Braveheart (1995) by user 43 is 3.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode VI - Return of the Jedi (1983) by user 44 is 4.803862
+The actual rating for Star Wars: Episode VI - Return of the Jedi (1983) by user 44 is 5.0
+------------------------------------------------------------------
+The predicted rating for Ace Ventura: Pet Detective (1994) by user 45 is 4.34079
+The actual rating for Ace Ventura: Pet Detective (1994) by user 45 is 4.0
+------------------------------------------------------------------
+The predicted rating for Interview with the Vampire: The Vampire Chronicles (1994) by user 46 is 3.983782
+The actual rating for Interview with the Vampire: The Vampire Chronicles (1994) by user 46 is 4.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 47 is 3.086396
+The actual rating for Apollo 13 (1995) by user 47 is 3.0
+------------------------------------------------------------------
+The predicted rating for Indiana Jones and the Temple of Doom (1984) by user 48 is 4.459077
+The actual rating for Indiana Jones and the Temple of Doom (1984) by user 48 is 5.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 49 is 4.358673
+The actual rating for Schindler's List (1993) by user 49 is 4.5
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 50 is 2.777662
+The actual rating for Forrest Gump (1994) by user 50 is 3.0
+------------------------------------------------------------------
+The predicted rating for Pretty Woman (1990) by user 51 is 3.914152
+The actual rating for Pretty Woman (1990) by user 51 is 3.5
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 52 is 4.362881
+The actual rating for Apollo 13 (1995) by user 52 is 4.0
+------------------------------------------------------------------
+The predicted rating for Speed (1994) by user 54 is 3.0
+The actual rating for Speed (1994) by user 54 is 3.0
+------------------------------------------------------------------
+The predicted rating for Departed, The (2006) by user 55 is 5.0
+The actual rating for Departed, The (2006) by user 55 is 5.0
+------------------------------------------------------------------
+The predicted rating for Ace Ventura: Pet Detective (1994) by user 56 is 4.427384
+The actual rating for Ace Ventura: Pet Detective (1994) by user 56 is 5.0
+------------------------------------------------------------------
+The predicted rating for Godfather, The (1972) by user 57 is 4.862244
+The actual rating for Godfather, The (1972) by user 57 is 5.0
+------------------------------------------------------------------
+The predicted rating for Clerks (1994) by user 58 is 3.168532
+The actual rating for Clerks (1994) by user 58 is 3.0
+------------------------------------------------------------------
+The predicted rating for Full Metal Jacket (1987) by user 59 is 4.413238
+The actual rating for Full Metal Jacket (1987) by user 59 is 5.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 60 is 4.481405
+The actual rating for Shawshank Redemption, The (1994) by user 60 is 4.0
+------------------------------------------------------------------
+The predicted rating for Shining, The (1980) by user 61 is 4.216225
+The actual rating for Shining, The (1980) by user 61 is 4.0
+------------------------------------------------------------------
+The predicted rating for Green Mile, The (1999) by user 62 is 4.601388
+The actual rating for Green Mile, The (1999) by user 62 is 5.0
+------------------------------------------------------------------
+The predicted rating for Donnie Darko (2001) by user 63 is 3.351258
+The actual rating for Donnie Darko (2001) by user 63 is 3.0
+------------------------------------------------------------------
+The predicted rating for Groundhog Day (1993) by user 64 is 4.235588
+The actual rating for Groundhog Day (1993) by user 64 is 4.0
+------------------------------------------------------------------
+The predicted rating for American History X (1998) by user 65 is 4.136546
+The actual rating for American History X (1998) by user 65 is 4.5
+------------------------------------------------------------------
+The predicted rating for Princess Bride, The (1987) by user 66 is 4.099261
+The actual rating for Princess Bride, The (1987) by user 66 is 4.0
+------------------------------------------------------------------
+The predicted rating for Shrek (2001) by user 67 is 3.994578
+The actual rating for Shrek (2001) by user 67 is 3.5
+------------------------------------------------------------------
+The predicted rating for Eternal Sunshine of the Spotless Mind (2004) by user 68 is 3.924509
+The actual rating for Eternal Sunshine of the Spotless Mind (2004) by user 68 is 4.5
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 69 is 4.143328
+The actual rating for Forrest Gump (1994) by user 69 is 4.0
+------------------------------------------------------------------
+The predicted rating for Green Mile, The (1999) by user 70 is 3.701246
+The actual rating for Green Mile, The (1999) by user 70 is 2.5
+------------------------------------------------------------------
+The predicted rating for Mission: Impossible (1996) by user 71 is 4.220541
+The actual rating for Mission: Impossible (1996) by user 71 is 4.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 72 is 4.691898
+The actual rating for Matrix, The (1999) by user 72 is 5.0
+------------------------------------------------------------------
+The predicted rating for Shrek (2001) by user 73 is 3.755767
+The actual rating for Shrek (2001) by user 73 is 2.5
+------------------------------------------------------------------
+The predicted rating for Apocalypse Now (1979) by user 74 is 5.0
+The actual rating for Apocalypse Now (1979) by user 74 is 5.0
+------------------------------------------------------------------
+The predicted rating for Aliens (1986) by user 75 is 3.26012
+The actual rating for Aliens (1986) by user 75 is 2.5
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 76 is 4.32495
+The actual rating for Pulp Fiction (1994) by user 76 is 4.5
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Two Towers, The (2002) by user 77 is 5.0
+The actual rating for Lord of the Rings: The Two Towers, The (2002) by user 77 is 5.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 78 is 4.177085
+The actual rating for Apollo 13 (1995) by user 78 is 4.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 79 is 4.518012
+The actual rating for Jurassic Park (1993) by user 79 is 5.0
+------------------------------------------------------------------
+The predicted rating for Kill Bill: Vol. 2 (2004) by user 80 is 4.417974
+The actual rating for Kill Bill: Vol. 2 (2004) by user 80 is 4.5
+------------------------------------------------------------------
+The predicted rating for Batman Forever (1995) by user 81 is 3.171968
+The actual rating for Batman Forever (1995) by user 81 is 3.0
+------------------------------------------------------------------
+The predicted rating for Minority Report (2002) by user 82 is 2.615538
+The actual rating for Minority Report (2002) by user 82 is 3.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 83 is 3.346947
+The actual rating for Jurassic Park (1993) by user 83 is 3.0
+------------------------------------------------------------------
+The predicted rating for Shining, The (1980) by user 84 is 3.661975
+The actual rating for Shining, The (1980) by user 84 is 4.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 85 is 4.6029
+The actual rating for Schindler's List (1993) by user 85 is 5.0
+------------------------------------------------------------------
+The predicted rating for Fugitive, The (1993) by user 86 is 4.096207
+The actual rating for Fugitive, The (1993) by user 86 is 4.0
+------------------------------------------------------------------
+The predicted rating for Monty Python and the Holy Grail (1975) by user 87 is 5.0
+The actual rating for Monty Python and the Holy Grail (1975) by user 87 is 5.0
+------------------------------------------------------------------
+The predicted rating for Big Lebowski, The (1998) by user 88 is 4.786861
+The actual rating for Big Lebowski, The (1998) by user 88 is 5.0
+------------------------------------------------------------------
+The predicted rating for Princess Bride, The (1987) by user 89 is 1.489406
+The actual rating for Princess Bride, The (1987) by user 89 is 2.0
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 90 is 5.019213
+The actual rating for Fargo (1996) by user 90 is 5.0
+------------------------------------------------------------------
+The predicted rating for Minority Report (2002) by user 91 is 4.236163
+The actual rating for Minority Report (2002) by user 91 is 3.5
+------------------------------------------------------------------
+The predicted rating for E.T. the Extra-Terrestrial (1982) by user 93 is 4.824886
+The actual rating for E.T. the Extra-Terrestrial (1982) by user 93 is 5.0
+------------------------------------------------------------------
+The predicted rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 94 is 2.82974
+The actual rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 94 is 3.0
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 95 is 4.813372
+The actual rating for Fargo (1996) by user 95 is 4.5
+------------------------------------------------------------------
+The predicted rating for Firm, The (1993) by user 96 is 4.329219
+The actual rating for Firm, The (1993) by user 96 is 4.0
+------------------------------------------------------------------
+The predicted rating for Saving Private Ryan (1998) by user 97 is 4.829431
+The actual rating for Saving Private Ryan (1998) by user 97 is 5.0
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 98 is 4.18976
+The actual rating for Fargo (1996) by user 98 is 4.0
+------------------------------------------------------------------
+The predicted rating for Aladdin (1992) by user 99 is 5.0
+The actual rating for Aladdin (1992) by user 99 is 5.0
+------------------------------------------------------------------
+The predicted rating for Breakfast Club, The (1985) by user 100 is 4.178271
+The actual rating for Breakfast Club, The (1985) by user 100 is 4.5
+------------------------------------------------------------------
+The predicted rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 101 is 3.851627
+The actual rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 101 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Trek: Generations (1994) by user 102 is 2.748252
+The actual rating for Star Trek: Generations (1994) by user 102 is 2.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode VI - Return of the Jedi (1983) by user 103 is 4.023441
+The actual rating for Star Wars: Episode VI - Return of the Jedi (1983) by user 103 is 3.5
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 104 is 3.540115
+The actual rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 104 is 3.0
+------------------------------------------------------------------
+The predicted rating for Donnie Darko (2001) by user 105 is 4.254741
+The actual rating for Donnie Darko (2001) by user 105 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Return of the King, The (2003) by user 106 is 5.0
+The actual rating for Lord of the Rings: The Return of the King, The (2003) by user 106 is 5.0
+------------------------------------------------------------------
+The predicted rating for Star Trek: Generations (1994) by user 107 is 3.401102
+The actual rating for Star Trek: Generations (1994) by user 107 is 3.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 108 is 4.596423
+The actual rating for Matrix, The (1999) by user 108 is 5.0
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 109 is 4.349912
+The actual rating for Braveheart (1995) by user 109 is 5.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 110 is 3.853643
+The actual rating for Schindler's List (1993) by user 110 is 4.0
+------------------------------------------------------------------
+The predicted rating for Lion King, The (1994) by user 111 is 3.114008
+The actual rating for Lion King, The (1994) by user 111 is 3.5
+------------------------------------------------------------------
+
+***********Seven (a.k.a. Se7en) (1995) is not in the item_similarity matrix***********
+
+The predicted rating for Seven (a.k.a. Se7en) (1995) by user 112 is None
+The actual rating for Seven (a.k.a. Se7en) (1995) by user 112 is 5.0
+------------------------------------------------------------------
+The predicted rating for Willy Wonka & the Chocolate Factory (1971) by user 113 is 4.462769
+The actual rating for Willy Wonka & the Chocolate Factory (1971) by user 113 is 5.0
+------------------------------------------------------------------
+The predicted rating for Monty Python and the Holy Grail (1975) by user 114 is 3.434388
+The actual rating for Monty Python and the Holy Grail (1975) by user 114 is 3.5
+------------------------------------------------------------------
+The predicted rating for Terminator, The (1984) by user 115 is 4.732262
+The actual rating for Terminator, The (1984) by user 115 is 5.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 116 is 3.82288
+The actual rating for Forrest Gump (1994) by user 116 is 4.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 117 is 3.663523
+The actual rating for Apollo 13 (1995) by user 117 is 4.0
+------------------------------------------------------------------
+The predicted rating for Dances with Wolves (1990) by user 118 is 3.776434
+The actual rating for Dances with Wolves (1990) by user 118 is 4.0
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 119 is 4.272618
+The actual rating for Inception (2010) by user 119 is 4.0
+------------------------------------------------------------------
+The predicted rating for Mission: Impossible (1996) by user 120 is 3.06149
+The actual rating for Mission: Impossible (1996) by user 120 is 3.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 121 is 3.0
+The actual rating for Apollo 13 (1995) by user 121 is 3.0
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 122 is 4.425742
+The actual rating for Inception (2010) by user 122 is 4.5
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 123 is 4.180611
+The actual rating for Silence of the Lambs, The (1991) by user 123 is 4.0
+------------------------------------------------------------------
+The predicted rating for Austin Powers: The Spy Who Shagged Me (1999) by user 124 is 4.092208
+The actual rating for Austin Powers: The Spy Who Shagged Me (1999) by user 124 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 125 is 4.034374
+The actual rating for Pulp Fiction (1994) by user 125 is 4.5
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 126 is 4.491799
+The actual rating for Shawshank Redemption, The (1994) by user 126 is 5.0
+------------------------------------------------------------------
+The predicted rating for Memento (2000) by user 127 is 1.612535
+The actual rating for Memento (2000) by user 127 is 2.0
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 128 is 4.553218
+The actual rating for Silence of the Lambs, The (1991) by user 128 is 5.0
+------------------------------------------------------------------
+The predicted rating for Kill Bill: Vol. 1 (2003) by user 129 is 4.089983
+The actual rating for Kill Bill: Vol. 1 (2003) by user 129 is 4.5
+------------------------------------------------------------------
+The predicted rating for Outbreak (1995) by user 130 is 4.140634
+The actual rating for Outbreak (1995) by user 130 is 5.0
+------------------------------------------------------------------
+The predicted rating for American History X (1998) by user 131 is 2.994976
+The actual rating for American History X (1998) by user 131 is 3.5
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 132 is 3.762835
+The actual rating for Matrix, The (1999) by user 132 is 4.5
+------------------------------------------------------------------
+The predicted rating for Net, The (1995) by user 133 is 2.229737
+The actual rating for Net, The (1995) by user 133 is 2.0
+------------------------------------------------------------------
+The predicted rating for Waterworld (1995) by user 134 is 3.688907
+The actual rating for Waterworld (1995) by user 134 is 4.0
+------------------------------------------------------------------
+The predicted rating for Shrek (2001) by user 135 is 3.310665
+The actual rating for Shrek (2001) by user 135 is 4.0
+------------------------------------------------------------------
+The predicted rating for Ace Ventura: Pet Detective (1994) by user 136 is 2.173971
+The actual rating for Ace Ventura: Pet Detective (1994) by user 136 is 1.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 137 is 3.624255
+The actual rating for Shawshank Redemption, The (1994) by user 137 is 3.5
+------------------------------------------------------------------
+The predicted rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 138 is 5.0
+The actual rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 138 is 5.0
+------------------------------------------------------------------
+The predicted rating for Up (2009) by user 139 is 3.016066
+The actual rating for Up (2009) by user 139 is 2.5
+------------------------------------------------------------------
+The predicted rating for Outbreak (1995) by user 140 is 3.169887
+The actual rating for Outbreak (1995) by user 140 is 3.0
+------------------------------------------------------------------
+The predicted rating for Truman Show, The (1998) by user 141 is 3.271148
+The actual rating for Truman Show, The (1998) by user 141 is 3.0
+------------------------------------------------------------------
+The predicted rating for Lion King, The (1994) by user 142 is 4.025699
+The actual rating for Lion King, The (1994) by user 142 is 4.0
+------------------------------------------------------------------
+The predicted rating for X-Men (2000) by user 143 is 3.896961
+The actual rating for X-Men (2000) by user 143 is 4.5
+------------------------------------------------------------------
+The predicted rating for Blade Runner (1982) by user 144 is 3.183322
+The actual rating for Blade Runner (1982) by user 144 is 3.0
+------------------------------------------------------------------
+The predicted rating for Die Hard: With a Vengeance (1995) by user 145 is 3.150596
+The actual rating for Die Hard: With a Vengeance (1995) by user 145 is 3.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 146 is 4.845197
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 146 is 5.0
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 148 is 2.749879
+The actual rating for Inception (2010) by user 148 is 1.5
+------------------------------------------------------------------
+The predicted rating for Independence Day (a.k.a. ID4) (1996) by user 149 is 2.253704
+The actual rating for Independence Day (a.k.a. ID4) (1996) by user 149 is 3.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 150 is 4.479693
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 150 is 5.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 151 is 3.647122
+The actual rating for Twister (1996) by user 151 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 152 is 4.546779
+The actual rating for Fight Club (1999) by user 152 is 5.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 153 is 3.17027
+The actual rating for Forrest Gump (1994) by user 153 is 3.5
+------------------------------------------------------------------
+The predicted rating for Up (2009) by user 154 is 5.0
+The actual rating for Up (2009) by user 154 is 5.0
+------------------------------------------------------------------
+The predicted rating for Men in Black (a.k.a. MIB) (1997) by user 155 is 3.705014
+The actual rating for Men in Black (a.k.a. MIB) (1997) by user 155 is 4.0
+------------------------------------------------------------------
+The predicted rating for Back to the Future (1985) by user 156 is 3.281819
+The actual rating for Back to the Future (1985) by user 156 is 3.5
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 157 is 4.744354
+The actual rating for Fight Club (1999) by user 157 is 5.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 159 is 3.507803
+The actual rating for Apollo 13 (1995) by user 159 is 4.0
+------------------------------------------------------------------
+The predicted rating for Ghost (1990) by user 160 is 2.39902
+The actual rating for Ghost (1990) by user 160 is 3.0
+------------------------------------------------------------------
+The predicted rating for Beautiful Mind, A (2001) by user 161 is 3.463346
+The actual rating for Beautiful Mind, A (2001) by user 161 is 3.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 162 is 4.434472
+The actual rating for Forrest Gump (1994) by user 162 is 5.0
+------------------------------------------------------------------
+The predicted rating for Good Will Hunting (1997) by user 163 is 3.786179
+The actual rating for Good Will Hunting (1997) by user 163 is 4.0
+------------------------------------------------------------------
+The predicted rating for Independence Day (a.k.a. ID4) (1996) by user 164 is 5.0
+The actual rating for Independence Day (a.k.a. ID4) (1996) by user 164 is 5.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 165 is 3.963193
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 165 is 4.0
+------------------------------------------------------------------
+The predicted rating for Catch Me If You Can (2002) by user 166 is 4.232622
+The actual rating for Catch Me If You Can (2002) by user 166 is 4.0
+------------------------------------------------------------------
+The predicted rating for Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) by user 167 is 4.292894
+The actual rating for Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) by user 167 is 4.5
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 168 is 4.73689
+The actual rating for Fargo (1996) by user 168 is 5.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 169 is 4.405845
+The actual rating for Apollo 13 (1995) by user 169 is 4.5
+------------------------------------------------------------------
+The predicted rating for Batman Forever (1995) by user 170 is 3.286423
+The actual rating for Batman Forever (1995) by user 170 is 3.0
+------------------------------------------------------------------
+The predicted rating for Apocalypse Now (1979) by user 171 is 5.0
+The actual rating for Apocalypse Now (1979) by user 171 is 5.0
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 172 is 3.87666
+The actual rating for Silence of the Lambs, The (1991) by user 172 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pretty Woman (1990) by user 173 is 3.136464
+The actual rating for Pretty Woman (1990) by user 173 is 3.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 174 is 3.221269
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 174 is 3.0
+------------------------------------------------------------------
+The predicted rating for Star Trek: Generations (1994) by user 176 is 4.558516
+The actual rating for Star Trek: Generations (1994) by user 176 is 5.0
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 177 is 3.455836
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 177 is 4.0
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 178 is 4.101539
+The actual rating for Braveheart (1995) by user 178 is 4.0
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 179 is 4.859766
+The actual rating for Braveheart (1995) by user 179 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 180 is 4.366987
+The actual rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 180 is 4.5
+------------------------------------------------------------------
+The predicted rating for Net, The (1995) by user 181 is 4.346244
+The actual rating for Net, The (1995) by user 181 is 4.0
+------------------------------------------------------------------
+The predicted rating for True Lies (1994) by user 182 is 2.593733
+The actual rating for True Lies (1994) by user 182 is 3.0
+------------------------------------------------------------------
+The predicted rating for Batman (1989) by user 183 is 3.49505
+The actual rating for Batman (1989) by user 183 is 3.0
+------------------------------------------------------------------
+The predicted rating for Batman Begins (2005) by user 184 is 4.349258
+The actual rating for Batman Begins (2005) by user 184 is 4.0
+------------------------------------------------------------------
+The predicted rating for Aladdin (1992) by user 185 is 3.917998
+The actual rating for Aladdin (1992) by user 185 is 4.0
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 186 is 4.62754
+The actual rating for Terminator 2: Judgment Day (1991) by user 186 is 5.0
+------------------------------------------------------------------
+The predicted rating for Home Alone (1990) by user 187 is 2.244947
+The actual rating for Home Alone (1990) by user 187 is 1.5
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 188 is 4.960372
+The actual rating for Forrest Gump (1994) by user 188 is 5.0
+------------------------------------------------------------------
+The predicted rating for Groundhog Day (1993) by user 189 is 4.032136
+The actual rating for Groundhog Day (1993) by user 189 is 4.0
+------------------------------------------------------------------
+The predicted rating for Catch Me If You Can (2002) by user 190 is 3.987508
+The actual rating for Catch Me If You Can (2002) by user 190 is 4.0
+------------------------------------------------------------------
+The predicted rating for True Lies (1994) by user 191 is 2.357716
+The actual rating for True Lies (1994) by user 191 is 3.0
+------------------------------------------------------------------
+The predicted rating for Stargate (1994) by user 192 is 4.114643
+The actual rating for Stargate (1994) by user 192 is 4.0
+------------------------------------------------------------------
+The predicted rating for 2001: A Space Odyssey (1968) by user 193 is 4.831152
+The actual rating for 2001: A Space Odyssey (1968) by user 193 is 5.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 195 is 4.416611
+The actual rating for Pulp Fiction (1994) by user 195 is 5.0
+------------------------------------------------------------------
+The predicted rating for Alien (1979) by user 196 is 3.806987
+The actual rating for Alien (1979) by user 196 is 4.5
+------------------------------------------------------------------
+The predicted rating for Saving Private Ryan (1998) by user 197 is 3.486065
+The actual rating for Saving Private Ryan (1998) by user 197 is 3.0
+------------------------------------------------------------------
+The predicted rating for Blade Runner (1982) by user 198 is 3.666054
+The actual rating for Blade Runner (1982) by user 198 is 3.0
+------------------------------------------------------------------
+The predicted rating for Goodfellas (1990) by user 199 is 3.764521
+The actual rating for Goodfellas (1990) by user 199 is 4.0
+------------------------------------------------------------------
+The predicted rating for Alien (1979) by user 200 is 3.962316
+The actual rating for Alien (1979) by user 200 is 3.5
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 201 is 4.862047
+The actual rating for Forrest Gump (1994) by user 201 is 5.0
+------------------------------------------------------------------
+The predicted rating for Clockwork Orange, A (1971) by user 202 is 4.359424
+The actual rating for Clockwork Orange, A (1971) by user 202 is 4.0
+------------------------------------------------------------------
+The predicted rating for Dances with Wolves (1990) by user 203 is 4.86752
+The actual rating for Dances with Wolves (1990) by user 203 is 5.0
+------------------------------------------------------------------
+The predicted rating for Monsters, Inc. (2001) by user 204 is 4.070865
+The actual rating for Monsters, Inc. (2001) by user 204 is 3.5
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Return of the King, The (2003) by user 205 is 4.095637
+The actual rating for Lord of the Rings: The Return of the King, The (2003) by user 205 is 4.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 206 is 3.163002
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 206 is 3.0
+------------------------------------------------------------------
+The predicted rating for American History X (1998) by user 207 is 3.613272
+The actual rating for American History X (1998) by user 207 is 3.5
+------------------------------------------------------------------
+The predicted rating for Rock, The (1996) by user 208 is 3.127924
+The actual rating for Rock, The (1996) by user 208 is 3.0
+------------------------------------------------------------------
+The predicted rating for Indiana Jones and the Last Crusade (1989) by user 209 is 5.0
+The actual rating for Indiana Jones and the Last Crusade (1989) by user 209 is 5.0
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 210 is 4.528972
+The actual rating for Terminator 2: Judgment Day (1991) by user 210 is 4.0
+------------------------------------------------------------------
+The predicted rating for Memento (2000) by user 211 is 4.506303
+The actual rating for Memento (2000) by user 211 is 4.5
+------------------------------------------------------------------
+The predicted rating for 2001: A Space Odyssey (1968) by user 212 is 3.489796
+The actual rating for 2001: A Space Odyssey (1968) by user 212 is 4.0
+------------------------------------------------------------------
+The predicted rating for Dark Knight, The (2008) by user 213 is 4.296332
+The actual rating for Dark Knight, The (2008) by user 213 is 4.5
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 214 is 2.538257
+The actual rating for Twister (1996) by user 214 is 2.0
+------------------------------------------------------------------
+The predicted rating for Aliens (1986) by user 215 is 3.101234
+The actual rating for Aliens (1986) by user 215 is 2.5
+------------------------------------------------------------------
+The predicted rating for Princess Bride, The (1987) by user 216 is 3.235809
+The actual rating for Princess Bride, The (1987) by user 216 is 3.0
+------------------------------------------------------------------
+The predicted rating for Independence Day (a.k.a. ID4) (1996) by user 217 is 3.0
+The actual rating for Independence Day (a.k.a. ID4) (1996) by user 217 is 3.0
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 218 is 3.730246
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 218 is 4.0
+------------------------------------------------------------------
+The predicted rating for Jumanji (1995) by user 219 is 2.757403
+The actual rating for Jumanji (1995) by user 219 is 2.5
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 220 is 4.91343
+The actual rating for Forrest Gump (1994) by user 220 is 5.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 221 is 3.056097
+The actual rating for Jurassic Park (1993) by user 221 is 3.0
+------------------------------------------------------------------
+The predicted rating for Incredibles, The (2004) by user 222 is 2.99244
+The actual rating for Incredibles, The (2004) by user 222 is 3.0
+------------------------------------------------------------------
+The predicted rating for Monsters, Inc. (2001) by user 223 is 3.745807
+The actual rating for Monsters, Inc. (2001) by user 223 is 4.0
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 224 is 4.444429
+The actual rating for Silence of the Lambs, The (1991) by user 224 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 225 is 3.857205
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 225 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 226 is 4.17231
+The actual rating for Fight Club (1999) by user 226 is 4.0
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 227 is 3.828785
+The actual rating for Inception (2010) by user 227 is 3.5
+------------------------------------------------------------------
+The predicted rating for Blade Runner (1982) by user 228 is 4.199853
+The actual rating for Blade Runner (1982) by user 228 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Trek: Generations (1994) by user 229 is 3.835763
+The actual rating for Star Trek: Generations (1994) by user 229 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pirates of the Caribbean: The Curse of the Black Pearl (2003) by user 230 is 4.196023
+The actual rating for Pirates of the Caribbean: The Curse of the Black Pearl (2003) by user 230 is 5.0
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 231 is 4.323538
+The actual rating for Silence of the Lambs, The (1991) by user 231 is 4.0
+------------------------------------------------------------------
+The predicted rating for Departed, The (2006) by user 232 is 4.364246
+The actual rating for Departed, The (2006) by user 232 is 4.5
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 233 is 2.833583
+The actual rating for Apollo 13 (1995) by user 233 is 2.0
+------------------------------------------------------------------
+The predicted rating for Speed (1994) by user 234 is 4.366687
+The actual rating for Speed (1994) by user 234 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 235 is 3.920038
+The actual rating for Pulp Fiction (1994) by user 235 is 4.0
+------------------------------------------------------------------
+The predicted rating for Alien (1979) by user 236 is 5.0
+The actual rating for Alien (1979) by user 236 is 5.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 237 is 3.635008
+The actual rating for Matrix, The (1999) by user 237 is 4.0
+------------------------------------------------------------------
+The predicted rating for Godfather, The (1972) by user 238 is 3.229473
+The actual rating for Godfather, The (1972) by user 238 is 3.0
+------------------------------------------------------------------
+The predicted rating for Indiana Jones and the Last Crusade (1989) by user 239 is 4.319243
+The actual rating for Indiana Jones and the Last Crusade (1989) by user 239 is 4.5
+------------------------------------------------------------------
+The predicted rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 240 is 4.301813
+The actual rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 240 is 4.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 241 is 3.664501
+The actual rating for Schindler's List (1993) by user 241 is 3.5
+------------------------------------------------------------------
+The predicted rating for Crimson Tide (1995) by user 242 is 3.534195
+The actual rating for Crimson Tide (1995) by user 242 is 4.0
+------------------------------------------------------------------
+The predicted rating for Mission: Impossible (1996) by user 243 is 5.0
+The actual rating for Mission: Impossible (1996) by user 243 is 5.0
+------------------------------------------------------------------
+The predicted rating for Men in Black (a.k.a. MIB) (1997) by user 244 is 3.514494
+The actual rating for Men in Black (a.k.a. MIB) (1997) by user 244 is 4.0
+------------------------------------------------------------------
+The predicted rating for Godfather, The (1972) by user 245 is 2.0
+The actual rating for Godfather, The (1972) by user 245 is 2.0
+------------------------------------------------------------------
+The predicted rating for Fifth Element, The (1997) by user 246 is 3.947503
+The actual rating for Fifth Element, The (1997) by user 246 is 4.0
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 247 is 3.64859
+The actual rating for WALL·E (2008) by user 247 is 3.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 248 is 3.641967
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 248 is 3.5
+------------------------------------------------------------------
+The predicted rating for True Lies (1994) by user 249 is 4.25853
+The actual rating for True Lies (1994) by user 249 is 4.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 250 is 4.86329
+The actual rating for Shawshank Redemption, The (1994) by user 250 is 5.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 251 is 5.0
+The actual rating for Schindler's List (1993) by user 251 is 5.0
+------------------------------------------------------------------
+The predicted rating for Finding Nemo (2003) by user 252 is 4.636769
+The actual rating for Finding Nemo (2003) by user 252 is 5.0
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 253 is 5.0
+The actual rating for Fargo (1996) by user 253 is 5.0
+------------------------------------------------------------------
+The predicted rating for Incredibles, The (2004) by user 254 is 4.266356
+The actual rating for Incredibles, The (2004) by user 254 is 4.5
+------------------------------------------------------------------
+The predicted rating for American Pie (1999) by user 255 is 2.144312
+The actual rating for American Pie (1999) by user 255 is 2.0
+------------------------------------------------------------------
+The predicted rating for Minority Report (2002) by user 256 is 4.279306
+The actual rating for Minority Report (2002) by user 256 is 4.0
+------------------------------------------------------------------
+The predicted rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 257 is 4.49286
+The actual rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 257 is 4.5
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 258 is 4.927966
+The actual rating for Matrix, The (1999) by user 258 is 5.0
+------------------------------------------------------------------
+The predicted rating for Austin Powers: The Spy Who Shagged Me (1999) by user 259 is 3.612478
+The actual rating for Austin Powers: The Spy Who Shagged Me (1999) by user 259 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 260 is 4.44303
+The actual rating for Fargo (1996) by user 260 is 5.0
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 261 is 4.232295
+The actual rating for Inception (2010) by user 261 is 4.5
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 262 is 3.033337
+The actual rating for Pulp Fiction (1994) by user 262 is 3.0
+------------------------------------------------------------------
+The predicted rating for Babe (1995) by user 263 is 3.413625
+The actual rating for Babe (1995) by user 263 is 4.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 264 is 4.007919
+The actual rating for Apollo 13 (1995) by user 264 is 4.0
+------------------------------------------------------------------
+The predicted rating for Back to the Future (1985) by user 265 is 4.873894
+The actual rating for Back to the Future (1985) by user 265 is 5.0
+------------------------------------------------------------------
+The predicted rating for Big Lebowski, The (1998) by user 266 is 4.822888
+The actual rating for Big Lebowski, The (1998) by user 266 is 5.0
+------------------------------------------------------------------
+The predicted rating for Aliens (1986) by user 267 is 4.850237
+The actual rating for Aliens (1986) by user 267 is 5.0
+------------------------------------------------------------------
+The predicted rating for American Beauty (1999) by user 268 is 4.346562
+The actual rating for American Beauty (1999) by user 268 is 5.0
+------------------------------------------------------------------
+The predicted rating for Trainspotting (1996) by user 269 is 4.0308
+The actual rating for Trainspotting (1996) by user 269 is 4.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 270 is 4.201775
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 270 is 4.0
+------------------------------------------------------------------
+The predicted rating for American Beauty (1999) by user 271 is 3.012976
+The actual rating for American Beauty (1999) by user 271 is 2.5
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 272 is 3.926297
+The actual rating for Matrix, The (1999) by user 272 is 4.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 273 is 3.761112
+The actual rating for Apollo 13 (1995) by user 273 is 3.0
+------------------------------------------------------------------
+The predicted rating for Catch Me If You Can (2002) by user 274 is 4.08908
+The actual rating for Catch Me If You Can (2002) by user 274 is 4.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Two Towers, The (2002) by user 275 is 3.893903
+The actual rating for Lord of the Rings: The Two Towers, The (2002) by user 275 is 4.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 276 is 4.697083
+The actual rating for Forrest Gump (1994) by user 276 is 5.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 277 is 3.902281
+The actual rating for Twister (1996) by user 277 is 4.0
+------------------------------------------------------------------
+The predicted rating for Usual Suspects, The (1995) by user 278 is 5.0
+The actual rating for Usual Suspects, The (1995) by user 278 is 5.0
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 279 is 3.920633
+The actual rating for Fight Club (1999) by user 279 is 3.5
+------------------------------------------------------------------
+The predicted rating for There's Something About Mary (1998) by user 280 is 3.410893
+The actual rating for There's Something About Mary (1998) by user 280 is 3.5
+------------------------------------------------------------------
+The predicted rating for American History X (1998) by user 281 is 3.962243
+The actual rating for American History X (1998) by user 281 is 4.0
+------------------------------------------------------------------
+The predicted rating for Full Metal Jacket (1987) by user 282 is 4.179056
+The actual rating for Full Metal Jacket (1987) by user 282 is 4.0
+------------------------------------------------------------------
+The predicted rating for Mrs. Doubtfire (1993) by user 283 is 3.41586
+The actual rating for Mrs. Doubtfire (1993) by user 283 is 3.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 284 is 3.887613
+The actual rating for Twister (1996) by user 284 is 4.0
+------------------------------------------------------------------
+The predicted rating for Breakfast Club, The (1985) by user 285 is 4.862141
+The actual rating for Breakfast Club, The (1985) by user 285 is 5.0
+------------------------------------------------------------------
+The predicted rating for Firm, The (1993) by user 286 is 4.278639
+The actual rating for Firm, The (1993) by user 286 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fifth Element, The (1997) by user 287 is 3.297803
+The actual rating for Fifth Element, The (1997) by user 287 is 4.0
+------------------------------------------------------------------
+The predicted rating for Kill Bill: Vol. 2 (2004) by user 288 is 4.402431
+The actual rating for Kill Bill: Vol. 2 (2004) by user 288 is 4.0
+------------------------------------------------------------------
+The predicted rating for Apocalypse Now (1979) by user 289 is 4.0
+The actual rating for Apocalypse Now (1979) by user 289 is 4.0
+------------------------------------------------------------------
+The predicted rating for Goodfellas (1990) by user 290 is 4.815369
+The actual rating for Goodfellas (1990) by user 290 is 5.0
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 291 is 4.37534
+The actual rating for WALL·E (2008) by user 291 is 5.0
+------------------------------------------------------------------
+The predicted rating for Dark Knight, The (2008) by user 292 is 3.589312
+The actual rating for Dark Knight, The (2008) by user 292 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 293 is 3.193723
+The actual rating for Fargo (1996) by user 293 is 3.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode IV - A New Hope (1977) by user 294 is 4.178084
+The actual rating for Star Wars: Episode IV - A New Hope (1977) by user 294 is 5.0
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 295 is 3.488278
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 295 is 2.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 296 is 4.725727
+The actual rating for Pulp Fiction (1994) by user 296 is 4.5
+------------------------------------------------------------------
+The predicted rating for Firm, The (1993) by user 297 is 2.409126
+The actual rating for Firm, The (1993) by user 297 is 3.0
+------------------------------------------------------------------
+The predicted rating for Léon: The Professional (a.k.a. The Professional) (Léon) (1994) by user 298 is 3.332806
+The actual rating for Léon: The Professional (a.k.a. The Professional) (Léon) (1994) by user 298 is 3.5
+------------------------------------------------------------------
+The predicted rating for Jumanji (1995) by user 299 is 3.421094
+The actual rating for Jumanji (1995) by user 299 is 3.0
+------------------------------------------------------------------
+The predicted rating for Saving Private Ryan (1998) by user 300 is 4.053094
+The actual rating for Saving Private Ryan (1998) by user 300 is 4.0
+------------------------------------------------------------------
+The predicted rating for Lion King, The (1994) by user 301 is 3.524706
+The actual rating for Lion King, The (1994) by user 301 is 3.5
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 302 is 4.369153
+The actual rating for Pulp Fiction (1994) by user 302 is 5.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 303 is 4.440363
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 303 is 5.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode VI - Return of the Jedi (1983) by user 304 is 4.843788
+The actual rating for Star Wars: Episode VI - Return of the Jedi (1983) by user 304 is 5.0
+------------------------------------------------------------------
+The predicted rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 305 is 3.903559
+The actual rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 305 is 4.0
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 306 is 4.170968
+The actual rating for WALL·E (2008) by user 306 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Two Towers, The (2002) by user 307 is 3.058217
+The actual rating for Lord of the Rings: The Two Towers, The (2002) by user 307 is 3.0
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 308 is 1.0
+The actual rating for Terminator 2: Judgment Day (1991) by user 308 is 1.0
+------------------------------------------------------------------
+The predicted rating for Reservoir Dogs (1992) by user 309 is 3.722768
+The actual rating for Reservoir Dogs (1992) by user 309 is 4.0
+------------------------------------------------------------------
+The predicted rating for Beautiful Mind, A (2001) by user 310 is 3.836
+The actual rating for Beautiful Mind, A (2001) by user 310 is 4.0
+------------------------------------------------------------------
+The predicted rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 311 is 2.808899
+The actual rating for Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) by user 311 is 3.0
+------------------------------------------------------------------
+The predicted rating for Stargate (1994) by user 312 is 3.183793
+The actual rating for Stargate (1994) by user 312 is 3.0
+------------------------------------------------------------------
+The predicted rating for Spider-Man (2002) by user 313 is 4.0043
+The actual rating for Spider-Man (2002) by user 313 is 4.0
+------------------------------------------------------------------
+The predicted rating for Four Weddings and a Funeral (1994) by user 314 is 4.163403
+The actual rating for Four Weddings and a Funeral (1994) by user 314 is 4.0
+------------------------------------------------------------------
+The predicted rating for 2001: A Space Odyssey (1968) by user 315 is 3.0
+The actual rating for 2001: A Space Odyssey (1968) by user 315 is 3.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 316 is 3.941316
+The actual rating for Matrix, The (1999) by user 316 is 4.5
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 317 is 4.342029
+The actual rating for Terminator 2: Judgment Day (1991) by user 317 is 4.0
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 318 is 3.962285
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 318 is 4.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 319 is 4.768454
+The actual rating for Matrix, The (1999) by user 319 is 5.0
+------------------------------------------------------------------
+The predicted rating for Gladiator (2000) by user 320 is 3.5
+The actual rating for Gladiator (2000) by user 320 is 3.5
+------------------------------------------------------------------
+The predicted rating for Aladdin (1992) by user 321 is 3.633185
+The actual rating for Aladdin (1992) by user 321 is 3.0
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 322 is 3.589688
+The actual rating for Braveheart (1995) by user 322 is 3.5
+------------------------------------------------------------------
+The predicted rating for Star Trek: Generations (1994) by user 323 is 3.436426
+The actual rating for Star Trek: Generations (1994) by user 323 is 3.5
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 324 is 4.581129
+The actual rating for Fargo (1996) by user 324 is 5.0
+------------------------------------------------------------------
+The predicted rating for Godfather, The (1972) by user 325 is 4.833973
+The actual rating for Godfather, The (1972) by user 325 is 5.0
+------------------------------------------------------------------
+The predicted rating for Departed, The (2006) by user 326 is 4.486983
+The actual rating for Departed, The (2006) by user 326 is 5.0
+------------------------------------------------------------------
+The predicted rating for Goodfellas (1990) by user 327 is 4.174628
+The actual rating for Goodfellas (1990) by user 327 is 4.5
+------------------------------------------------------------------
+The predicted rating for Clockwork Orange, A (1971) by user 328 is 4.670004
+The actual rating for Clockwork Orange, A (1971) by user 328 is 4.5
+------------------------------------------------------------------
+The predicted rating for Monty Python and the Holy Grail (1975) by user 329 is 0.82672
+The actual rating for Monty Python and the Holy Grail (1975) by user 329 is 0.5
+------------------------------------------------------------------
+The predicted rating for Catch Me If You Can (2002) by user 330 is 3.759979
+The actual rating for Catch Me If You Can (2002) by user 330 is 4.0
+------------------------------------------------------------------
+The predicted rating for GoldenEye (1995) by user 331 is 2.994966
+The actual rating for GoldenEye (1995) by user 331 is 3.0
+------------------------------------------------------------------
+The predicted rating for Kill Bill: Vol. 2 (2004) by user 332 is 3.638554
+The actual rating for Kill Bill: Vol. 2 (2004) by user 332 is 3.5
+------------------------------------------------------------------
+The predicted rating for Gladiator (2000) by user 333 is 4.170752
+The actual rating for Gladiator (2000) by user 333 is 4.0
+------------------------------------------------------------------
+The predicted rating for Incredibles, The (2004) by user 334 is 3.726357
+The actual rating for Incredibles, The (2004) by user 334 is 3.5
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 335 is 4.757376
+The actual rating for Pulp Fiction (1994) by user 335 is 5.0
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 336 is 4.238138
+The actual rating for Apollo 13 (1995) by user 336 is 4.0
+------------------------------------------------------------------
+The predicted rating for Usual Suspects, The (1995) by user 337 is 4.028342
+The actual rating for Usual Suspects, The (1995) by user 337 is 3.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 338 is 4.84415
+The actual rating for Schindler's List (1993) by user 338 is 5.0
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 339 is 4.553181
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 339 is 5.0
+------------------------------------------------------------------
+The predicted rating for GoldenEye (1995) by user 340 is 4.145928
+The actual rating for GoldenEye (1995) by user 340 is 4.0
+------------------------------------------------------------------
+The predicted rating for Die Hard (1988) by user 341 is 3.561277
+The actual rating for Die Hard (1988) by user 341 is 4.0
+------------------------------------------------------------------
+The predicted rating for American Pie (1999) by user 342 is 4.11651
+The actual rating for American Pie (1999) by user 342 is 4.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Two Towers, The (2002) by user 343 is 4.536275
+The actual rating for Lord of the Rings: The Two Towers, The (2002) by user 343 is 5.0
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 344 is 3.981744
+The actual rating for WALL·E (2008) by user 344 is 3.5
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 345 is 3.709107
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 345 is 3.5
+------------------------------------------------------------------
+The predicted rating for Four Weddings and a Funeral (1994) by user 346 is 4.088274
+The actual rating for Four Weddings and a Funeral (1994) by user 346 is 4.5
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 347 is 3.303023
+The actual rating for Braveheart (1995) by user 347 is 3.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 348 is 5.0
+The actual rating for Shawshank Redemption, The (1994) by user 348 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lion King, The (1994) by user 349 is 3.84314
+The actual rating for Lion King, The (1994) by user 349 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 350 is 3.240681
+The actual rating for Fargo (1996) by user 350 is 3.0
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 351 is 3.945648
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 351 is 3.5
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 352 is 4.658464
+The actual rating for Inception (2010) by user 352 is 5.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 353 is 4.556989
+The actual rating for Shawshank Redemption, The (1994) by user 353 is 5.0
+------------------------------------------------------------------
+The predicted rating for Spider-Man (2002) by user 354 is 3.835294
+The actual rating for Spider-Man (2002) by user 354 is 4.0
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 355 is 4.226001
+The actual rating for Titanic (1997) by user 355 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 356 is 4.495008
+The actual rating for Fight Club (1999) by user 356 is 5.0
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 357 is 3.819002
+The actual rating for Terminator 2: Judgment Day (1991) by user 357 is 3.5
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 358 is 5.200931
+The actual rating for Titanic (1997) by user 358 is 5.0
+------------------------------------------------------------------
+The predicted rating for Men in Black (a.k.a. MIB) (1997) by user 359 is 3.180333
+The actual rating for Men in Black (a.k.a. MIB) (1997) by user 359 is 2.0
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 360 is 4.0
+The actual rating for Titanic (1997) by user 360 is 4.0
+------------------------------------------------------------------
+The predicted rating for Godfather, The (1972) by user 361 is 2.272441
+The actual rating for Godfather, The (1972) by user 361 is 2.5
+------------------------------------------------------------------
+The predicted rating for Departed, The (2006) by user 362 is 4.287666
+The actual rating for Departed, The (2006) by user 362 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 363 is 4.358156
+The actual rating for Pulp Fiction (1994) by user 363 is 5.0
+------------------------------------------------------------------
+The predicted rating for Mission: Impossible (1996) by user 364 is 3.702961
+The actual rating for Mission: Impossible (1996) by user 364 is 3.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 365 is 3.326642
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 365 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 366 is 4.36557
+The actual rating for Fight Club (1999) by user 366 is 4.5
+------------------------------------------------------------------
+The predicted rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 367 is 4.515471
+The actual rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 367 is 5.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 368 is 3.424843
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 368 is 3.0
+------------------------------------------------------------------
+The predicted rating for Die Hard: With a Vengeance (1995) by user 369 is 2.881744
+The actual rating for Die Hard: With a Vengeance (1995) by user 369 is 3.5
+------------------------------------------------------------------
+The predicted rating for Interview with the Vampire: The Vampire Chronicles (1994) by user 370 is 3.663956
+The actual rating for Interview with the Vampire: The Vampire Chronicles (1994) by user 370 is 3.5
+------------------------------------------------------------------
+The predicted rating for Shining, The (1980) by user 371 is 4.913632
+The actual rating for Shining, The (1980) by user 371 is 5.0
+------------------------------------------------------------------
+The predicted rating for Aladdin (1992) by user 372 is 4.02129
+The actual rating for Aladdin (1992) by user 372 is 4.0
+------------------------------------------------------------------
+
+***********Seven (a.k.a. Se7en) (1995) is not in the item_similarity matrix***********
+
+The predicted rating for Seven (a.k.a. Se7en) (1995) by user 373 is None
+The actual rating for Seven (a.k.a. Se7en) (1995) by user 373 is 5.0
+------------------------------------------------------------------
+The predicted rating for Beauty and the Beast (1991) by user 374 is 3.0
+The actual rating for Beauty and the Beast (1991) by user 374 is 3.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode I - The Phantom Menace (1999) by user 375 is 2.831286
+The actual rating for Star Wars: Episode I - The Phantom Menace (1999) by user 375 is 1.5
+------------------------------------------------------------------
+The predicted rating for Shrek (2001) by user 376 is 4.073063
+The actual rating for Shrek (2001) by user 376 is 4.0
+------------------------------------------------------------------
+The predicted rating for American Beauty (1999) by user 377 is 4.47723
+The actual rating for American Beauty (1999) by user 377 is 4.5
+------------------------------------------------------------------
+The predicted rating for Up (2009) by user 378 is 4.164856
+The actual rating for Up (2009) by user 378 is 4.0
+------------------------------------------------------------------
+The predicted rating for Sleepless in Seattle (1993) by user 379 is 3.512944
+The actual rating for Sleepless in Seattle (1993) by user 379 is 4.0
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 380 is 4.836777
+The actual rating for WALL·E (2008) by user 380 is 5.0
+------------------------------------------------------------------
+The predicted rating for Jumanji (1995) by user 381 is 3.753994
+The actual rating for Jumanji (1995) by user 381 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode I - The Phantom Menace (1999) by user 382 is 3.984777
+The actual rating for Star Wars: Episode I - The Phantom Menace (1999) by user 382 is 3.5
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 383 is 4.092377
+The actual rating for Apollo 13 (1995) by user 383 is 4.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 384 is 4.0
+The actual rating for Jurassic Park (1993) by user 384 is 4.0
+------------------------------------------------------------------
+The predicted rating for Groundhog Day (1993) by user 385 is 4.197024
+The actual rating for Groundhog Day (1993) by user 385 is 5.0
+------------------------------------------------------------------
+The predicted rating for Outbreak (1995) by user 386 is 1.499853
+The actual rating for Outbreak (1995) by user 386 is 1.0
+------------------------------------------------------------------
+The predicted rating for Ace Ventura: Pet Detective (1994) by user 387 is 3.332359
+The actual rating for Ace Ventura: Pet Detective (1994) by user 387 is 3.5
+------------------------------------------------------------------
+The predicted rating for Princess Bride, The (1987) by user 388 is 4.222398
+The actual rating for Princess Bride, The (1987) by user 388 is 4.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 389 is 3.849718
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 389 is 4.0
+------------------------------------------------------------------
+The predicted rating for E.T. the Extra-Terrestrial (1982) by user 390 is 3.201894
+The actual rating for E.T. the Extra-Terrestrial (1982) by user 390 is 1.5
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 391 is 4.17143
+The actual rating for Terminator 2: Judgment Day (1991) by user 391 is 4.0
+------------------------------------------------------------------
+The predicted rating for American Pie (1999) by user 392 is 4.15371
+The actual rating for American Pie (1999) by user 392 is 5.0
+------------------------------------------------------------------
+The predicted rating for Batman Begins (2005) by user 393 is 4.809855
+The actual rating for Batman Begins (2005) by user 393 is 5.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 394 is 3.242543
+The actual rating for Forrest Gump (1994) by user 394 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pretty Woman (1990) by user 395 is 3.729447
+The actual rating for Pretty Woman (1990) by user 395 is 4.0
+------------------------------------------------------------------
+The predicted rating for Finding Nemo (2003) by user 396 is 4.333709
+The actual rating for Finding Nemo (2003) by user 396 is 4.5
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 398 is 4.347013
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 398 is 4.5
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Return of the King, The (2003) by user 399 is 4.590358
+The actual rating for Lord of the Rings: The Return of the King, The (2003) by user 399 is 4.0
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 400 is 4.636835
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 400 is 4.5
+------------------------------------------------------------------
+The predicted rating for Men in Black (a.k.a. MIB) (1997) by user 401 is 2.867788
+The actual rating for Men in Black (a.k.a. MIB) (1997) by user 401 is 2.0
+------------------------------------------------------------------
+The predicted rating for Ghost (1990) by user 402 is 4.542105
+The actual rating for Ghost (1990) by user 402 is 5.0
+------------------------------------------------------------------
+The predicted rating for Eternal Sunshine of the Spotless Mind (2004) by user 403 is 4.622251
+The actual rating for Eternal Sunshine of the Spotless Mind (2004) by user 403 is 4.5
+------------------------------------------------------------------
+The predicted rating for Babe (1995) by user 404 is 4.0
+The actual rating for Babe (1995) by user 404 is 4.0
+------------------------------------------------------------------
+The predicted rating for Waterworld (1995) by user 405 is 4.154858
+The actual rating for Waterworld (1995) by user 405 is 4.0
+------------------------------------------------------------------
+The predicted rating for Indiana Jones and the Last Crusade (1989) by user 407 is 4.312125
+The actual rating for Indiana Jones and the Last Crusade (1989) by user 407 is 4.0
+------------------------------------------------------------------
+The predicted rating for Inception (2010) by user 408 is 4.340097
+The actual rating for Inception (2010) by user 408 is 3.5
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 409 is 4.85035
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 409 is 5.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 410 is 3.972267
+The actual rating for Schindler's List (1993) by user 410 is 4.0
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 411 is 3.974557
+The actual rating for Braveheart (1995) by user 411 is 4.0
+------------------------------------------------------------------
+The predicted rating for Babe (1995) by user 412 is 4.719969
+The actual rating for Babe (1995) by user 412 is 5.0
+------------------------------------------------------------------
+The predicted rating for Goodfellas (1990) by user 413 is 4.719206
+The actual rating for Goodfellas (1990) by user 413 is 4.5
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 414 is 3.541468
+The actual rating for Apollo 13 (1995) by user 414 is 4.0
+------------------------------------------------------------------
+The predicted rating for Men in Black (a.k.a. MIB) (1997) by user 415 is 3.734648
+The actual rating for Men in Black (a.k.a. MIB) (1997) by user 415 is 3.5
+------------------------------------------------------------------
+The predicted rating for Pirates of the Caribbean: The Curse of the Black Pearl (2003) by user 416 is 1.536798
+The actual rating for Pirates of the Caribbean: The Curse of the Black Pearl (2003) by user 416 is 2.0
+------------------------------------------------------------------
+The predicted rating for Gladiator (2000) by user 417 is 4.489604
+The actual rating for Gladiator (2000) by user 417 is 5.0
+------------------------------------------------------------------
+The predicted rating for Eternal Sunshine of the Spotless Mind (2004) by user 418 is 4.667809
+The actual rating for Eternal Sunshine of the Spotless Mind (2004) by user 418 is 5.0
+------------------------------------------------------------------
+The predicted rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 419 is 3.264468
+The actual rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 419 is 3.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 420 is 4.001122
+The actual rating for Forrest Gump (1994) by user 420 is 4.0
+------------------------------------------------------------------
+The predicted rating for Clockwork Orange, A (1971) by user 421 is 4.567745
+The actual rating for Clockwork Orange, A (1971) by user 421 is 4.5
+------------------------------------------------------------------
+The predicted rating for Independence Day (a.k.a. ID4) (1996) by user 422 is 4.190653
+The actual rating for Independence Day (a.k.a. ID4) (1996) by user 422 is 4.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 423 is 4.60391
+The actual rating for Forrest Gump (1994) by user 423 is 5.0
+------------------------------------------------------------------
+The predicted rating for Clerks (1994) by user 424 is 3.915156
+The actual rating for Clerks (1994) by user 424 is 3.5
+------------------------------------------------------------------
+The predicted rating for Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001) by user 425 is 3.730537
+The actual rating for Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001) by user 425 is 4.0
+------------------------------------------------------------------
+The predicted rating for Incredibles, The (2004) by user 426 is 4.92386
+The actual rating for Incredibles, The (2004) by user 426 is 5.0
+------------------------------------------------------------------
+The predicted rating for American History X (1998) by user 427 is 3.983213
+The actual rating for American History X (1998) by user 427 is 4.0
+------------------------------------------------------------------
+The predicted rating for Apocalypse Now (1979) by user 428 is 3.250156
+The actual rating for Apocalypse Now (1979) by user 428 is 3.5
+------------------------------------------------------------------
+The predicted rating for Batman (1989) by user 429 is 4.675203
+The actual rating for Batman (1989) by user 429 is 5.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 430 is 4.639109
+The actual rating for Matrix, The (1999) by user 430 is 5.0
+------------------------------------------------------------------
+The predicted rating for Alien (1979) by user 432 is 3.93005
+The actual rating for Alien (1979) by user 432 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 433 is 4.423212
+The actual rating for Pulp Fiction (1994) by user 433 is 5.0
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 434 is 4.056756
+The actual rating for Terminator 2: Judgment Day (1991) by user 434 is 4.5
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 435 is 4.659324
+The actual rating for Shawshank Redemption, The (1994) by user 435 is 5.0
+------------------------------------------------------------------
+The predicted rating for Aladdin (1992) by user 436 is 3.346474
+The actual rating for Aladdin (1992) by user 436 is 3.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 437 is 3.821777
+The actual rating for Twister (1996) by user 437 is 5.0
+------------------------------------------------------------------
+The predicted rating for Mrs. Doubtfire (1993) by user 438 is 3.564216
+The actual rating for Mrs. Doubtfire (1993) by user 438 is 3.5
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 439 is 4.098384
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 439 is 4.5
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 440 is 4.177608
+The actual rating for WALL·E (2008) by user 440 is 4.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Return of the King, The (2003) by user 441 is 4.879688
+The actual rating for Lord of the Rings: The Return of the King, The (2003) by user 441 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 443 is 4.704068
+The actual rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 443 is 4.5
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 444 is 4.213392
+The actual rating for Shawshank Redemption, The (1994) by user 444 is 4.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 445 is 4.449718
+The actual rating for Matrix, The (1999) by user 445 is 5.0
+------------------------------------------------------------------
+The predicted rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 446 is 2.012716
+The actual rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 446 is 1.0
+------------------------------------------------------------------
+The predicted rating for Aladdin (1992) by user 447 is 4.328123
+The actual rating for Aladdin (1992) by user 447 is 5.0
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 448 is 4.503158
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 448 is 5.0
+------------------------------------------------------------------
+The predicted rating for Full Metal Jacket (1987) by user 449 is 3.342726
+The actual rating for Full Metal Jacket (1987) by user 449 is 3.0
+------------------------------------------------------------------
+The predicted rating for Mission: Impossible (1996) by user 450 is 4.062313
+The actual rating for Mission: Impossible (1996) by user 450 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fugitive, The (1993) by user 451 is 3.627153
+The actual rating for Fugitive, The (1993) by user 451 is 4.0
+------------------------------------------------------------------
+The predicted rating for GoldenEye (1995) by user 452 is 4.154942
+The actual rating for GoldenEye (1995) by user 452 is 4.0
+------------------------------------------------------------------
+The predicted rating for Reservoir Dogs (1992) by user 453 is 4.491785
+The actual rating for Reservoir Dogs (1992) by user 453 is 5.0
+------------------------------------------------------------------
+The predicted rating for Eternal Sunshine of the Spotless Mind (2004) by user 454 is 3.702028
+The actual rating for Eternal Sunshine of the Spotless Mind (2004) by user 454 is 3.5
+------------------------------------------------------------------
+The predicted rating for Four Weddings and a Funeral (1994) by user 455 is 3.661169
+The actual rating for Four Weddings and a Funeral (1994) by user 455 is 4.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 456 is 3.006123
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 456 is 3.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 457 is 3.302256
+The actual rating for Jurassic Park (1993) by user 457 is 2.0
+------------------------------------------------------------------
+The predicted rating for Aladdin (1992) by user 458 is 4.671877
+The actual rating for Aladdin (1992) by user 458 is 4.0
+------------------------------------------------------------------
+The predicted rating for X-Men (2000) by user 459 is 4.052022
+The actual rating for X-Men (2000) by user 459 is 3.5
+------------------------------------------------------------------
+The predicted rating for Beautiful Mind, A (2001) by user 460 is 4.484502
+The actual rating for Beautiful Mind, A (2001) by user 460 is 5.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 461 is 0.990263
+The actual rating for Jurassic Park (1993) by user 461 is 0.5
+------------------------------------------------------------------
+The predicted rating for Donnie Darko (2001) by user 462 is 2.693289
+The actual rating for Donnie Darko (2001) by user 462 is 2.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 463 is 4.08485
+The actual rating for Forrest Gump (1994) by user 463 is 4.0
+------------------------------------------------------------------
+The predicted rating for Ocean's Eleven (2001) by user 464 is 4.687291
+The actual rating for Ocean's Eleven (2001) by user 464 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode I - The Phantom Menace (1999) by user 465 is 3.06146
+The actual rating for Star Wars: Episode I - The Phantom Menace (1999) by user 465 is 2.0
+------------------------------------------------------------------
+The predicted rating for Up (2009) by user 466 is 4.148819
+The actual rating for Up (2009) by user 466 is 5.0
+------------------------------------------------------------------
+The predicted rating for Independence Day (a.k.a. ID4) (1996) by user 467 is 2.584815
+The actual rating for Independence Day (a.k.a. ID4) (1996) by user 467 is 2.0
+------------------------------------------------------------------
+The predicted rating for Batman Forever (1995) by user 468 is 3.478687
+The actual rating for Batman Forever (1995) by user 468 is 3.0
+------------------------------------------------------------------
+The predicted rating for Goodfellas (1990) by user 469 is 4.487201
+The actual rating for Goodfellas (1990) by user 469 is 4.0
+------------------------------------------------------------------
+The predicted rating for Babe (1995) by user 470 is 3.585516
+The actual rating for Babe (1995) by user 470 is 4.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 471 is 3.629138
+The actual rating for Forrest Gump (1994) by user 471 is 3.0
+------------------------------------------------------------------
+The predicted rating for Departed, The (2006) by user 472 is 5.0
+The actual rating for Departed, The (2006) by user 472 is 5.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 473 is 4.551845
+The actual rating for Shawshank Redemption, The (1994) by user 473 is 5.0
+------------------------------------------------------------------
+The predicted rating for Minority Report (2002) by user 474 is 4.219978
+The actual rating for Minority Report (2002) by user 474 is 4.5
+------------------------------------------------------------------
+The predicted rating for Batman (1989) by user 475 is 4.728036
+The actual rating for Batman (1989) by user 475 is 5.0
+------------------------------------------------------------------
+The predicted rating for Beauty and the Beast (1991) by user 476 is 4.537981
+The actual rating for Beauty and the Beast (1991) by user 476 is 5.0
+------------------------------------------------------------------
+The predicted rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 477 is 4.327214
+The actual rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 477 is 4.0
+------------------------------------------------------------------
+The predicted rating for Willy Wonka & the Chocolate Factory (1971) by user 478 is 3.947784
+The actual rating for Willy Wonka & the Chocolate Factory (1971) by user 478 is 4.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 479 is 2.720061
+The actual rating for Twister (1996) by user 479 is 3.0
+------------------------------------------------------------------
+The predicted rating for Die Hard (1988) by user 480 is 3.668923
+The actual rating for Die Hard (1988) by user 480 is 3.5
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 481 is 5.0
+The actual rating for Titanic (1997) by user 481 is 5.0
+------------------------------------------------------------------
+The predicted rating for Mission: Impossible (1996) by user 482 is 4.282618
+The actual rating for Mission: Impossible (1996) by user 482 is 4.0
+------------------------------------------------------------------
+The predicted rating for One Flew Over the Cuckoo's Nest (1975) by user 483 is 3.552911
+The actual rating for One Flew Over the Cuckoo's Nest (1975) by user 483 is 3.0
+------------------------------------------------------------------
+The predicted rating for American History X (1998) by user 484 is 4.668082
+The actual rating for American History X (1998) by user 484 is 5.0
+------------------------------------------------------------------
+The predicted rating for Die Hard: With a Vengeance (1995) by user 485 is 4.540046
+The actual rating for Die Hard: With a Vengeance (1995) by user 485 is 5.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 486 is 4.330414
+The actual rating for Twister (1996) by user 486 is 5.0
+------------------------------------------------------------------
+The predicted rating for Minority Report (2002) by user 487 is 3.011821
+The actual rating for Minority Report (2002) by user 487 is 3.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 488 is 4.76307
+The actual rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 488 is 5.0
+------------------------------------------------------------------
+The predicted rating for True Lies (1994) by user 489 is 3.432046
+The actual rating for True Lies (1994) by user 489 is 3.5
+------------------------------------------------------------------
+The predicted rating for Pretty Woman (1990) by user 490 is 2.999896
+The actual rating for Pretty Woman (1990) by user 490 is 2.5
+------------------------------------------------------------------
+The predicted rating for Groundhog Day (1993) by user 491 is 4.268109
+The actual rating for Groundhog Day (1993) by user 491 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode IV - A New Hope (1977) by user 492 is 3.730226
+The actual rating for Star Wars: Episode IV - A New Hope (1977) by user 492 is 4.0
+------------------------------------------------------------------
+The predicted rating for Saving Private Ryan (1998) by user 493 is 3.670504
+The actual rating for Saving Private Ryan (1998) by user 493 is 4.0
+------------------------------------------------------------------
+The predicted rating for Mask, The (1994) by user 494 is 2.956984
+The actual rating for Mask, The (1994) by user 494 is 2.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 495 is 4.324124
+The actual rating for Forrest Gump (1994) by user 495 is 4.0
+------------------------------------------------------------------
+The predicted rating for Godfather: Part II, The (1974) by user 496 is 4.305329
+The actual rating for Godfather: Part II, The (1974) by user 496 is 4.0
+------------------------------------------------------------------
+The predicted rating for Dark Knight, The (2008) by user 497 is 3.411231
+The actual rating for Dark Knight, The (2008) by user 497 is 4.0
+------------------------------------------------------------------
+The predicted rating for Ace Ventura: Pet Detective (1994) by user 498 is 3.080537
+The actual rating for Ace Ventura: Pet Detective (1994) by user 498 is 2.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 500 is 3.586553
+The actual rating for Forrest Gump (1994) by user 500 is 4.0
+------------------------------------------------------------------
+The predicted rating for GoldenEye (1995) by user 501 is 4.328965
+The actual rating for GoldenEye (1995) by user 501 is 4.0
+------------------------------------------------------------------
+The predicted rating for Shawshank Redemption, The (1994) by user 502 is 4.980483
+The actual rating for Shawshank Redemption, The (1994) by user 502 is 5.0
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 503 is 4.169476
+The actual rating for Fight Club (1999) by user 503 is 3.5
+------------------------------------------------------------------
+The predicted rating for Breakfast Club, The (1985) by user 504 is 4.0
+The actual rating for Breakfast Club, The (1985) by user 504 is 4.0
+------------------------------------------------------------------
+The predicted rating for Memento (2000) by user 505 is 5.0
+The actual rating for Memento (2000) by user 505 is 5.0
+------------------------------------------------------------------
+The predicted rating for Clueless (1995) by user 506 is 5.0
+The actual rating for Clueless (1995) by user 506 is 5.0
+------------------------------------------------------------------
+The predicted rating for Clear and Present Danger (1994) by user 507 is 3.161011
+The actual rating for Clear and Present Danger (1994) by user 507 is 3.0
+------------------------------------------------------------------
+The predicted rating for Full Metal Jacket (1987) by user 508 is 4.5
+The actual rating for Full Metal Jacket (1987) by user 508 is 4.5
+------------------------------------------------------------------
+The predicted rating for Babe (1995) by user 509 is 3.175123
+The actual rating for Babe (1995) by user 509 is 3.5
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 510 is 3.70799
+The actual rating for Jurassic Park (1993) by user 510 is 3.0
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 511 is 4.705882
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 511 is 5.0
+------------------------------------------------------------------
+The predicted rating for Braveheart (1995) by user 512 is 4.497473
+The actual rating for Braveheart (1995) by user 512 is 5.0
+------------------------------------------------------------------
+The predicted rating for Fugitive, The (1993) by user 513 is 4.280484
+The actual rating for Fugitive, The (1993) by user 513 is 4.5
+------------------------------------------------------------------
+The predicted rating for Apollo 13 (1995) by user 514 is 3.905361
+The actual rating for Apollo 13 (1995) by user 514 is 4.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 515 is 5.0
+The actual rating for Forrest Gump (1994) by user 515 is 5.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 516 is 4.222384
+The actual rating for Jurassic Park (1993) by user 516 is 4.0
+------------------------------------------------------------------
+The predicted rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 517 is 2.08296
+The actual rating for Ghostbusters (a.k.a. Ghost Busters) (1984) by user 517 is 2.0
+------------------------------------------------------------------
+The predicted rating for Finding Nemo (2003) by user 518 is 5.0
+The actual rating for Finding Nemo (2003) by user 518 is 5.0
+------------------------------------------------------------------
+The predicted rating for Catch Me If You Can (2002) by user 519 is 4.160886
+The actual rating for Catch Me If You Can (2002) by user 519 is 4.0
+------------------------------------------------------------------
+The predicted rating for Princess Bride, The (1987) by user 520 is 4.742656
+The actual rating for Princess Bride, The (1987) by user 520 is 5.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 521 is 3.388281
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 521 is 3.0
+------------------------------------------------------------------
+The predicted rating for GoldenEye (1995) by user 522 is 4.499505
+The actual rating for GoldenEye (1995) by user 522 is 4.5
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 523 is 4.706743
+The actual rating for Titanic (1997) by user 523 is 5.0
+------------------------------------------------------------------
+The predicted rating for Apocalypse Now (1979) by user 524 is 3.558306
+The actual rating for Apocalypse Now (1979) by user 524 is 4.0
+------------------------------------------------------------------
+The predicted rating for Clockwork Orange, A (1971) by user 525 is 3.679365
+The actual rating for Clockwork Orange, A (1971) by user 525 is 3.5
+------------------------------------------------------------------
+The predicted rating for Fargo (1996) by user 526 is 4.39147
+The actual rating for Fargo (1996) by user 526 is 4.5
+------------------------------------------------------------------
+The predicted rating for Jumanji (1995) by user 527 is 3.826123
+The actual rating for Jumanji (1995) by user 527 is 4.0
+------------------------------------------------------------------
+The predicted rating for Gladiator (2000) by user 528 is 4.622193
+The actual rating for Gladiator (2000) by user 528 is 5.0
+------------------------------------------------------------------
+The predicted rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 529 is 4.499053
+The actual rating for Twelve Monkeys (a.k.a. 12 Monkeys) (1995) by user 529 is 5.0
+------------------------------------------------------------------
+The predicted rating for Jurassic Park (1993) by user 530 is 4.171716
+The actual rating for Jurassic Park (1993) by user 530 is 4.0
+------------------------------------------------------------------
+The predicted rating for Dances with Wolves (1990) by user 531 is 3.752515
+The actual rating for Dances with Wolves (1990) by user 531 is 3.0
+------------------------------------------------------------------
+The predicted rating for Fight Club (1999) by user 532 is 4.648345
+The actual rating for Fight Club (1999) by user 532 is 5.0
+------------------------------------------------------------------
+The predicted rating for Alien (1979) by user 533 is 4.084354
+The actual rating for Alien (1979) by user 533 is 4.0
+------------------------------------------------------------------
+The predicted rating for Fifth Element, The (1997) by user 534 is 3.98991
+The actual rating for Fifth Element, The (1997) by user 534 is 4.5
+------------------------------------------------------------------
+The predicted rating for Austin Powers: The Spy Who Shagged Me (1999) by user 535 is 2.477845
+The actual rating for Austin Powers: The Spy Who Shagged Me (1999) by user 535 is 1.0
+------------------------------------------------------------------
+The predicted rating for Fugitive, The (1993) by user 536 is 3.780309
+The actual rating for Fugitive, The (1993) by user 536 is 3.0
+------------------------------------------------------------------
+The predicted rating for Matrix, The (1999) by user 537 is 4.421218
+The actual rating for Matrix, The (1999) by user 537 is 4.0
+------------------------------------------------------------------
+The predicted rating for Ferris Bueller's Day Off (1986) by user 538 is 4.676008
+The actual rating for Ferris Bueller's Day Off (1986) by user 538 is 4.5
+------------------------------------------------------------------
+The predicted rating for Groundhog Day (1993) by user 539 is 4.181209
+The actual rating for Groundhog Day (1993) by user 539 is 3.5
+------------------------------------------------------------------
+The predicted rating for Mission: Impossible (1996) by user 540 is 3.876007
+The actual rating for Mission: Impossible (1996) by user 540 is 3.5
+------------------------------------------------------------------
+The predicted rating for Usual Suspects, The (1995) by user 541 is 4.347682
+The actual rating for Usual Suspects, The (1995) by user 541 is 5.0
+------------------------------------------------------------------
+The predicted rating for Fifth Element, The (1997) by user 542 is 4.402889
+The actual rating for Fifth Element, The (1997) by user 542 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lion King, The (1994) by user 543 is 5.0
+The actual rating for Lion King, The (1994) by user 543 is 5.0
+------------------------------------------------------------------
+The predicted rating for Twister (1996) by user 544 is 4.87815
+The actual rating for Twister (1996) by user 544 is 5.0
+------------------------------------------------------------------
+The predicted rating for Batman Begins (2005) by user 545 is 3.5
+The actual rating for Batman Begins (2005) by user 545 is 3.5
+------------------------------------------------------------------
+The predicted rating for Back to the Future (1985) by user 546 is 3.423681
+The actual rating for Back to the Future (1985) by user 546 is 3.0
+------------------------------------------------------------------
+The predicted rating for American Beauty (1999) by user 547 is 5.0
+The actual rating for American Beauty (1999) by user 547 is 5.0
+------------------------------------------------------------------
+The predicted rating for Dark Knight, The (2008) by user 548 is 4.905499
+The actual rating for Dark Knight, The (2008) by user 548 is 5.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 549 is 2.500257
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 549 is 2.0
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 550 is 4.294339
+The actual rating for WALL·E (2008) by user 550 is 4.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode IV - A New Hope (1977) by user 551 is 3.280881
+The actual rating for Star Wars: Episode IV - A New Hope (1977) by user 551 is 3.5
+------------------------------------------------------------------
+The predicted rating for Good Will Hunting (1997) by user 552 is 3.834414
+The actual rating for Good Will Hunting (1997) by user 552 is 4.0
+------------------------------------------------------------------
+The predicted rating for Speed (1994) by user 553 is 3.744405
+The actual rating for Speed (1994) by user 553 is 3.5
+------------------------------------------------------------------
+The predicted rating for E.T. the Extra-Terrestrial (1982) by user 554 is 5.0
+The actual rating for E.T. the Extra-Terrestrial (1982) by user 554 is 5.0
+------------------------------------------------------------------
+The predicted rating for Blade Runner (1982) by user 555 is 4.493063
+The actual rating for Blade Runner (1982) by user 555 is 4.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Return of the King, The (2003) by user 556 is 4.212511
+The actual rating for Lord of the Rings: The Return of the King, The (2003) by user 556 is 4.0
+------------------------------------------------------------------
+The predicted rating for Titanic (1997) by user 557 is 3.663626
+The actual rating for Titanic (1997) by user 557 is 3.5
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 558 is 4.038431
+The actual rating for Silence of the Lambs, The (1991) by user 558 is 4.0
+------------------------------------------------------------------
+The predicted rating for Babe (1995) by user 559 is 4.207097
+The actual rating for Babe (1995) by user 559 is 5.0
+------------------------------------------------------------------
+The predicted rating for Harry Potter and the Chamber of Secrets (2002) by user 560 is 3.291549
+The actual rating for Harry Potter and the Chamber of Secrets (2002) by user 560 is 3.0
+------------------------------------------------------------------
+The predicted rating for American History X (1998) by user 561 is 4.158553
+The actual rating for American History X (1998) by user 561 is 3.5
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 562 is 4.22909
+The actual rating for Terminator 2: Judgment Day (1991) by user 562 is 4.5
+------------------------------------------------------------------
+The predicted rating for Princess Bride, The (1987) by user 563 is 3.464649
+The actual rating for Princess Bride, The (1987) by user 563 is 3.0
+------------------------------------------------------------------
+The predicted rating for Groundhog Day (1993) by user 564 is 4.340173
+The actual rating for Groundhog Day (1993) by user 564 is 5.0
+------------------------------------------------------------------
+The predicted rating for Pretty Woman (1990) by user 565 is 3.004747
+The actual rating for Pretty Woman (1990) by user 565 is 3.0
+------------------------------------------------------------------
+The predicted rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 566 is 2.506677
+The actual rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 566 is 2.0
+------------------------------------------------------------------
+The predicted rating for WALL·E (2008) by user 567 is 2.359889
+The actual rating for WALL·E (2008) by user 567 is 3.0
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 568 is 4.655285
+The actual rating for Forrest Gump (1994) by user 568 is 5.0
+------------------------------------------------------------------
+The predicted rating for Stargate (1994) by user 569 is 4.139129
+The actual rating for Stargate (1994) by user 569 is 4.0
+------------------------------------------------------------------
+The predicted rating for GoldenEye (1995) by user 570 is 3.662377
+The actual rating for GoldenEye (1995) by user 570 is 3.5
+------------------------------------------------------------------
+The predicted rating for Shining, The (1980) by user 571 is 4.327999
+The actual rating for Shining, The (1980) by user 571 is 5.0
+------------------------------------------------------------------
+The predicted rating for Apocalypse Now (1979) by user 572 is 4.502921
+The actual rating for Apocalypse Now (1979) by user 572 is 5.0
+------------------------------------------------------------------
+The predicted rating for Terminator 2: Judgment Day (1991) by user 573 is 4.735718
+The actual rating for Terminator 2: Judgment Day (1991) by user 573 is 5.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 574 is 3.789628
+The actual rating for Pulp Fiction (1994) by user 574 is 3.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 575 is 4.75154
+The actual rating for Pulp Fiction (1994) by user 575 is 5.0
+------------------------------------------------------------------
+The predicted rating for Stargate (1994) by user 577 is 2.560329
+The actual rating for Stargate (1994) by user 577 is 2.0
+------------------------------------------------------------------
+The predicted rating for Mask, The (1994) by user 579 is 4.19414
+The actual rating for Mask, The (1994) by user 579 is 4.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Return of the King, The (2003) by user 580 is 4.064988
+The actual rating for Lord of the Rings: The Return of the King, The (2003) by user 580 is 4.0
+------------------------------------------------------------------
+The predicted rating for Beautiful Mind, A (2001) by user 581 is 4.405033
+The actual rating for Beautiful Mind, A (2001) by user 581 is 4.5
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 582 is 4.238439
+The actual rating for Star Wars: Episode V - The Empire Strikes Back (1980) by user 582 is 4.0
+------------------------------------------------------------------
+The predicted rating for Silence of the Lambs, The (1991) by user 583 is 3.082866
+The actual rating for Silence of the Lambs, The (1991) by user 583 is 2.5
+------------------------------------------------------------------
+The predicted rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 584 is 2.431073
+The actual rating for Dumb & Dumber (Dumb and Dumber) (1994) by user 584 is 2.0
+------------------------------------------------------------------
+The predicted rating for Goodfellas (1990) by user 585 is 4.701984
+The actual rating for Goodfellas (1990) by user 585 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 586 is 4.87535
+The actual rating for Lord of the Rings: The Fellowship of the Ring, The (2001) by user 586 is 5.0
+------------------------------------------------------------------
+The predicted rating for Ghost (1990) by user 587 is 4.343617
+The actual rating for Ghost (1990) by user 587 is 5.0
+------------------------------------------------------------------
+The predicted rating for Dances with Wolves (1990) by user 588 is 2.707745
+The actual rating for Dances with Wolves (1990) by user 588 is 3.0
+------------------------------------------------------------------
+The predicted rating for Schindler's List (1993) by user 589 is 4.584239
+The actual rating for Schindler's List (1993) by user 589 is 5.0
+------------------------------------------------------------------
+The predicted rating for Lord of the Rings: The Return of the King, The (2003) by user 590 is 4.384787
+The actual rating for Lord of the Rings: The Return of the King, The (2003) by user 590 is 4.5
+------------------------------------------------------------------
+The predicted rating for Forrest Gump (1994) by user 591 is 4.206008
+The actual rating for Forrest Gump (1994) by user 591 is 4.0
+------------------------------------------------------------------
+The predicted rating for Pulp Fiction (1994) by user 592 is 4.160158
+The actual rating for Pulp Fiction (1994) by user 592 is 4.0
+------------------------------------------------------------------
+The predicted rating for Harry Potter and the Chamber of Secrets (2002) by user 593 is 2.1461
+The actual rating for Harry Potter and the Chamber of Secrets (2002) by user 593 is 2.0
+------------------------------------------------------------------
+The predicted rating for Jumanji (1995) by user 594 is 4.241647
+The actual rating for Jumanji (1995) by user 594 is 4.0
+------------------------------------------------------------------
+The predicted rating for Usual Suspects, The (1995) by user 595 is 4.739548
+The actual rating for Usual Suspects, The (1995) by user 595 is 5.0
+------------------------------------------------------------------
+The predicted rating for Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001) by user 596 is 3.825174
+The actual rating for Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001) by user 596 is 4.0
+------------------------------------------------------------------
+The predicted rating for Blade Runner (1982) by user 597 is 4.495228
+The actual rating for Blade Runner (1982) by user 597 is 4.0
+------------------------------------------------------------------
+The predicted rating for Bourne Identity, The (2002) by user 598 is 3.527526
+The actual rating for Bourne Identity, The (2002) by user 598 is 4.0
+------------------------------------------------------------------
+The predicted rating for Eternal Sunshine of the Spotless Mind (2004) by user 599 is 3.416082
+The actual rating for Eternal Sunshine of the Spotless Mind (2004) by user 599 is 3.0
+------------------------------------------------------------------
+The predicted rating for Monsters, Inc. (2001) by user 600 is 2.990965
+The actual rating for Monsters, Inc. (2001) by user 600 is 3.0
+------------------------------------------------------------------
+The predicted rating for Usual Suspects, The (1995) by user 601 is 4.915969
+The actual rating for Usual Suspects, The (1995) by user 601 is 5.0
+------------------------------------------------------------------
+The predicted rating for Clueless (1995) by user 602 is 4.142238
+The actual rating for Clueless (1995) by user 602 is 5.0
+------------------------------------------------------------------
+The predicted rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 603 is 3.19428
+The actual rating for Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) by user 603 is 4.0
+------------------------------------------------------------------
+The predicted rating for Batman Forever (1995) by user 604 is 3.303163
+The actual rating for Batman Forever (1995) by user 604 is 3.0
+------------------------------------------------------------------
+The predicted rating for Harry Potter and the Chamber of Secrets (2002) by user 605 is 3.496067
+The actual rating for Harry Potter and the Chamber of Secrets (2002) by user 605 is 3.5
+------------------------------------------------------------------
+The predicted rating for Firm, The (1993) by user 606 is 3.633231
+The actual rating for Firm, The (1993) by user 606 is 3.0
+------------------------------------------------------------------
+The predicted rating for Star Wars: Episode I - The Phantom Menace (1999) by user 607 is 3.458067
+The actual rating for Star Wars: Episode I - The Phantom Menace (1999) by user 607 is 3.0
+------------------------------------------------------------------
+The predicted rating for Minority Report (2002) by user 608 is 3.829472
+The actual rating for Minority Report (2002) by user 608 is 4.5
+------------------------------------------------------------------
+The predicted rating for Net, The (1995) by user 609 is 3.0
+The actual rating for Net, The (1995) by user 609 is 3.0
+------------------------------------------------------------------
+The predicted rating for Green Mile, The (1999) by user 610 is 3.484878
+The actual rating for Green Mile, The (1999) by user 610 is 2.5
+------------------------------------------------------------------
