@@ -89,6 +89,24 @@ def create_ratings_table():
                 cursor.execute("INSERT INTO ratings (user_id, movie_id, rating, timestamp) VALUES (?, ?, ?, ?)", (user_id, movie_id, rating, timestamp))
 
 
+# Function to aggregate ratings from grouplens data, to calculate mean rating and number of ratings for each movie, 
+# and insert into movie table for avgRating_users and numVotes_users variables
+def preprocess_ratings(movietable = 'movies', ratingstable = 'ratings'):
+    # Aggregate ratings by movie title, calculate mean rating and number of ratings
+    with sqlite3.connect(database_name) as conn:
+        cursor = conn.cursor()
+        cursor.execute(f'''SELECT title, AVG(rating) as avgRating_users, COUNT(rating) as numVotes_users
+                            FROM {movietable} 
+                            JOIN {ratingstable} ON {movietable}.movie_id = {ratingstable}.movie_id
+                            GROUP BY title''')
+        rows = cursor.fetchall()
+        for row in rows:
+            title = row[0]
+            avgRating_users = round(row[1] * 2, 3)
+            numVotes_users = row[2]
+            cursor.execute(f"UPDATE {movietable} SET avgRating_users=?, numVotes_users=? WHERE title=?", (avgRating_users, numVotes_users, title))
+        conn.commit()
+
 # Merge movies table and ratings table based on 'movie_id' variable, so that the ratings entries have all the movie's information, besides repeating the movie's id 
 def merge_tables():
     with sqlite3.connect(database_name) as conn:
@@ -240,6 +258,10 @@ def main():
     print('Adding IMDB data to movies table...')
     update_moviesT_parrallel(imdb_rating_file)
     update_moviesT_parrallel(imdb_movie_file)
+    print_table_info('movies')
+
+    print('Preprocessing ratings...')
+    preprocess_ratings()
     print_table_info('movies')
 
     # print('Merging ratings and movies tables...')
