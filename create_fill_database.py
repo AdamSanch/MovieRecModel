@@ -6,27 +6,33 @@ import numpy as np
 from multiprocessing import Pool
 import time
 import os
+"""
+------------------------------------------------------------------------------------------------------------------------
+ You can use the functions create_movie_table(), create_ratings_table(), and merge_tables() to create and populate the databases in one concurrent process (kind of slow)
+ Or you can use the function update_moviesT_parrallel() to create and populate the databases in parallel processes (faster)
+ 
+ The database, movie_recommender.db, is created in the same directory as this file.
 
-# You can use the functions create_movie_table(), create_ratings_table(), and merge_tables() to create and populate the databases in one concurrent process (kind of slow)
-# Or you can use the function update_moviesT_parrallel() to create and populate the databases in parallel processes (faster but not done yet)
-# imdb data can be found at https://datasets.imdbws.com/
-# ml-latest-small data can be found at https://grouplens.org/datasets/movielens/
-# The database is created in the same directory as this file
-# required pip installs: tqdm
+ 
+ imdb data can be found at https://datasets.imdbws.com/
+ ml-latest-small data can be found at https://grouplens.org/datasets/movielens/
+ required pip installs: tqdm, pandas, numpy
+------------------------------------------------------------------------------------------------------------------------
+"""
 
-rating_file = 'ml-latest-small/ratings.csv'
-movie_file = 'ml-latest-small/movies.csv'
-link_file = 'ml-latest-small/links.csv'
+rating_file = 'data/ml-latest-small/ratings.csv'
+movie_file = 'data/ml-latest-small/movies.csv'
+link_file = 'data/ml-latest-small/links.csv'
 
-imdb_movie_file = 'IMDB-data-BIG/title.basics.tsv'
-imdb_rating_file = 'IMDB-data-BIG/title.ratings.tsv'
+imdb_movie_file = 'data/IMDB-data-BIG/Archive/title.basics.tsv'
+imdb_rating_file = 'data/IMDB-data-BIG/Archive/title.ratings.tsv'
 
 database_name = 'movie_recommender.db'
 
 
 """
 ------------------------------------------------------------------------------------------------------------------------
-    Functions to create and populate the database with csv files
+    Functions to create and populate the movies and ratings tables in database, using groupLens data
 ------------------------------------------------------------------------------------------------------------------------
 """
 
@@ -38,6 +44,8 @@ def create_movie_table():
         cursor.execute('''CREATE TABLE movies
                             (movie_id INTEGER, IMDB_id INTEGER, title TEXT, genres TEXT, is_adult INTEGER, runtime_min INTEGER, 
                             avgRating_IMDB REAL, numVotes_IMDB INTEGER, avgRating_users REAL, numVotes_users INTEGER)''')
+
+        # Add movie_id, title, and genres to movies table                    
         with open(movie_file, 'r', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile, delimiter=',')
             next(reader)
@@ -46,6 +54,8 @@ def create_movie_table():
                 title = row[1]
                 genres = row[2]
                 cursor.execute("INSERT INTO movies (movie_id, title, genres) VALUES (?, ?, ?)", (movie_id, title, genres))
+
+        # Add IMDB_id to movies table
         with open(link_file, 'r', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile, delimiter=',')
             next(reader)
@@ -66,6 +76,8 @@ def create_ratings_table():
         cursor.execute("DROP TABLE IF EXISTS ratings")
         cursor.execute('''CREATE TABLE ratings
                             (user_id INTEGER, movie_id INTEGER, rating REAL, timestamp INTEGER)''')
+        
+        # Add user_id, movie_id, rating, and timestamp to ratings table
         with open(rating_file, 'r', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile, delimiter=',')
             next(reader)
@@ -88,27 +100,12 @@ def merge_tables():
                             movies.avgRating_users, movies.numVotes_users, ratings.timestamp, movies.IMDB_id
                           FROM ratings
                           JOIN movies ON ratings.movie_id = movies.movie_id''')
-# Print table name and number of entries in table, and the first 10 rows from the table 
-def print_table_info(table_name, num_rows=10):
-    with sqlite3.connect(database_name) as conn:
-        cursor = conn.cursor()
-        cursor.execute("SELECT COUNT(*) FROM {}".format(table_name))
-        print('The {} table has {} entries'.format(table_name, cursor.fetchone()[0]))
-        cursor.execute("SELECT * FROM {} LIMIT {}".format(table_name, num_rows))
-        print(cursor.fetchall())              
-        print('\n')            
-    return
 
-def create_small_file(big_file, small_file, num_lines):
-    with open(big_file, 'r', encoding='utf-8') as big, open(small_file, 'w', encoding='utf-8') as small:
-        next(big)  # Skip the first line
-        for _ in range(num_lines):
-            line = big.readline()
-            small.write(line)
+
 
 """
 ------------------------------------------------------------------------------------------------------------------------
- Parrallel processing functions to merge IMDB data with the movies table
+ Parrallel processing functions to merge move data from IMDB into the movies table
 ------------------------------------------------------------------------------------------------------------------------
 """
 # Reads and removes a row of data from the chunk if the movie does not exist in the 'movies' table
@@ -150,7 +147,7 @@ def update_moviesT_parrallel(file_name, chunk_size=1000):
         line_count = 0
         for chunk in read_data_in_chunks(file_name, chunk_size):
             line_count += len(chunk)
-            print(f'Processing lines {line_count - len(chunk) + 1} to {line_count}')
+            #print(f'Processing lines {line_count - len(chunk) + 1} to {line_count}')
             results = p.map(process_data, [chunk])
 
             # Write the results to the database
@@ -173,20 +170,46 @@ def update_moviesT_parrallel(file_name, chunk_size=1000):
                         if avgRating is not None or nVotes is not None:
                             cursor.execute("UPDATE movies SET avgRating_IMDB=?, numVotes_IMDB=? WHERE IMDB_id=?", (avgRating, nVotes, Imdb_id))
                 conn.commit()
-                print(f'Updated {len(results[0])} rows')
+                #print(f'Updated {len(results[0])} rows')
 
     print(f'Finished in {time.time() - start_time} seconds')
 
+
+def create_small_file(big_file, small_file, num_lines):
+    with open(big_file, 'r', encoding='utf-8') as big, open(small_file, 'w', encoding='utf-8') as small:
+        next(big)  # Skip the first line
+        for _ in range(num_lines):
+            line = big.readline()
+            small.write(line)
 
 """
 ------------------------------------------------------------------------------------------------------------------------
  Main function past this point to create and populate the database
 ------------------------------------------------------------------------------------------------------------------------
 """
+# Print table name and number of entries in table, and the rows from the table 
+def print_table_info(table_name, num_rows=10):
+    with sqlite3.connect(database_name) as conn:
+        cursor = conn.cursor()
+        cursor.execute("SELECT COUNT(*) FROM {}".format(table_name))
+        print('The {} table has {} entries'.format(table_name, cursor.fetchone()[0]))
+        cursor.execute("SELECT * FROM {} LIMIT {}".format(table_name, num_rows))
+        rows = cursor.fetchall()
+        for row in rows:
+            print(*row, sep='\t')
+        print('\n')
 
+    # Pause and ask if the user wants to continue
+    user_input = input("Press Enter to continue or 'q' to quit: ")
+    if user_input.lower() == 'q':
+        sys.exit()
+
+
+# Main function 
 def main():
 
-    # write merged table to csv file
+    """
+    # write merged table to merged.csv file
     with sqlite3.connect(database_name) as conn:
         cursor = conn.cursor()
         cursor.execute("SELECT * FROM merged")
@@ -194,7 +217,7 @@ def main():
             writer = csv.writer(csvfile, delimiter=',')
             writer.writerow([i[0] for i in cursor.description])
             writer.writerows(cursor)
-            
+    """      
                     
 
 
@@ -206,18 +229,18 @@ def main():
     
 
 
-    #print('Creating and populating ratings table...')
-    #create_ratings_table()
-    #print_table_info('ratings')
+    print('Creating and populating ratings table...')
+    create_ratings_table()
+    print_table_info('ratings')
 
-    #print('Creating and populating movies table...')
-    #create_movie_table()
-    #print_table_info('movies')
+    print('Creating and populating movies table...')
+    create_movie_table()
+    print_table_info('movies')
 
-    #print('Adding IMDB data to movies table...')
-    #update_moviesT_parrallel(imdb_rating_file)
-    #update_moviesT_parrallel(imdb_movie_file)
-    #print_table_info('movies')
+    print('Adding IMDB data to movies table...')
+    update_moviesT_parrallel(imdb_rating_file)
+    update_moviesT_parrallel(imdb_movie_file)
+    print_table_info('movies')
 
     # print('Merging ratings and movies tables...')
     # merge_tables()
