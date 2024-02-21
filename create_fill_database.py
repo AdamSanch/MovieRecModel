@@ -206,7 +206,7 @@ def create_small_file(big_file, small_file, num_lines):
 ------------------------------------------------------------------------------------------------------------------------
 """
 # Print table name and number of entries in table, and the rows from the table 
-def print_table_info(table_name, num_rows=10):
+def print_table_info(table_name, num_rows=1000):
     with sqlite3.connect(database_name) as conn:
         cursor = conn.cursor()
         cursor.execute("SELECT COUNT(*) FROM {}".format(table_name))
@@ -247,21 +247,21 @@ def main():
     
 
 
-    print('Creating and populating ratings table...')
-    create_ratings_table()
-    print_table_info('ratings')
+    # print('Creating and populating ratings table...')
+    # create_ratings_table()
+    # print_table_info('ratings')
 
-    print('Creating and populating movies table...')
-    create_movie_table()
-    print_table_info('movies')
+    # print('Creating and populating movies table...')
+    # create_movie_table()
+    # print_table_info('movies')
 
-    print('Adding IMDB data to movies table...')
-    update_moviesT_parrallel(imdb_rating_file)
-    update_moviesT_parrallel(imdb_movie_file)
-    print_table_info('movies')
+    # print('Adding IMDB data to movies table...')
+    # update_moviesT_parrallel(imdb_rating_file)
+    # update_moviesT_parrallel(imdb_movie_file)
+    # print_table_info('movies')
 
-    print('Preprocessing ratings...')
-    preprocess_ratings()
+    # print('Preprocessing ratings...')
+    # preprocess_ratings()
     print_table_info('movies')
 
     # print('Merging ratings and movies tables...')

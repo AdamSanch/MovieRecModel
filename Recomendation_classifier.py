@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 # Similarity
 from sklearn.metrics.pairwise import cosine_similarity
 
-
+M_Database = 'movie_recommender.db'
 
 
 """
@@ -32,6 +32,9 @@ from sklearn.metrics.pairwise import cosine_similarity
  12  IMDB_id          100836 non-null  int64  
 ------------------------------------------------
 """
+
+
+
 
 # Function to user-movie rating data from a CSV file
 def load_data(filepath):
